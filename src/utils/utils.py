@@ -683,48 +683,6 @@ class Utils():
                         writer1.writerow(row)
                     time.sleep(120)
 
-    def Q2textBeta(self):
-
-        #Load icd_final.csv
-        icd_final = pd.read_csv(parser.get("outputFinalPath" , "load"))
-        # Ouverture du fichier en mode 'append' pour ajouter de nouvelles lignes
-        with open(os.path.join(parser.get("outputFinalPath","path"),'icd_datasets.csv'), mode='a', newline='') as file:
-            #writer = csv.writer(file)
-            # Définition des colonnes dans un objet DictWriter
-            writer = csv.DictWriter(file, fieldnames=["Index", "CODE-10" , "ICD9-CM", "Keys", "ShortDescription", "Description", "Text"])
-
-            # Écriture de l'en-tête
-            writer.writeheader()
-
-            for keys , icd10 in tqdm(icd_final["CODE-10"].iteritems()):
-                compt = 0
-                des = icd_final.loc[icd_final["CODE-10"] == icd10, "ShortDescription"].iloc[0]+ "," + icd_final.loc[icd_final["CODE-10"] == icd10, "Description"].iloc[0]
-                prompt = f"CODE-10 = {icd10} which has in the context of the international classification of disease codes the description:{des}. Give me a text translate in french of a patient who expresses his symptoms that he has related to this type of disease to his doctor in form discussion with his doctor."
-                while compt !=5:
-                    text = self.ChatGptAPi(prompt)
-
-                    row = {"Index" : icd_final.loc[icd_final["CODE-10"] == icd10, "Index"].iloc[0],
-                    "CODE-10" : icd10,
-                    "ICD9-CM" : icd_final.loc[icd_final["CODE-10"] == icd10, "ICD9-CM"].iloc[0],
-                    "Keys" : icd_final.loc[icd_final["CODE-10"] == icd10, "Keys"].iloc[0],
-                    "ShortDescription" : icd_final.loc[icd_final["CODE-10"] == icd10, "ShortDescription"].iloc[0],
-                    "Description" : icd_final.loc[icd_final["CODE-10"] == icd10, "Description"].iloc[0],
-                    "Text" : text}
-
-                    # Écriture d'une nouvelle ligne dans le fichier CSV
-                    writer.writerow(row)
-
-                    compt = compt + 1
-
-
-
-
-
-
-
-
-
-
 
 
 
