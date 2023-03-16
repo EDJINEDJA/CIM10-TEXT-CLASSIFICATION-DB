@@ -1,5 +1,4 @@
-# audiomixer
-
+# CIM10
 <p align="center">
     <a href="https://www.python.org/doc/" alt="Python 3.7">
         <img src="https://img.shields.io/badge/python-v3.7+-blue.svg" />
