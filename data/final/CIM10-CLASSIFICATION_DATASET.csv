@@ -1,0 +1,882 @@
+INDEX,CODE-10,CODE-9,MCO/HAD,SSR,PSY,SHORTDESCRIPTION,DESCRIPTION,CIM10-GROUPED,DESCRIPTION-GROUPED,SERVICES-MACRO,CIM10-GROUPED+,DESCRIPTION-GROUPED+,SERVICES-MINI+,Text
+0,A00,Pas d'équivalence,3,NNNN,3,CHOLERA,Choléra,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je ne me sens pas bien du tout. J'ai des douleurs abdominales, de la diarrhée et je vomis beaucoup.
+
+Docteur : D'accord, depuis quand avez-vous ces symptômes ?
+
+Patient : Depuis hier soir. Je me suis réveillé avec des douleurs et j'ai commencé à vomir.
+
+Docteur : Avez-vous de la fièvre ?
+
+Patient : Oui, j'ai de la fièvre depuis hier soir aussi.
+
+Docteur : Avez-vous voyagé récemment ?
+
+Patient : Oui, je suis allé en vacances en Asie il y a deux semaines.
+
+Docteur : D'accord, il est possible que vous ayez contracté une infection bactérienne appelée choléra. Il est important que nous commencions immédiatement un traitement pour éviter des complications graves.
+
+Patient : Oh non, c'est grave ?
+
+Docteur : Nous allons faire des tests pour confirmer le diagnostic, mais pour l'instant, il est important que vous restiez hydraté et que vous preniez les médicaments que je vais vous prescrire.
+
+Patient : D'accord, merci docteur. Je vais faire tout ce que vous me dites."
+1,A000,0010,0,NOOO,0,"CHOLERA A VIBRIO CHOLERAE 01, BIOVAR CHOLERAE","Choléra à Vibrio cholerae 01, biovar cholerae",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient: Bonjour Docteur, je suis venu vous voir parce que je me sens très malade depuis quelques jours. J'ai des diarrhées abondantes et je vomis souvent.
+
+Docteur: Bonjour, je comprends. Ces symptômes sont très gênants. Avez-vous également remarqué une forte déshydratation ?
+
+Patient: Oui, je me sens très fatigué et j'ai beaucoup de mal à boire et à manger.
+
+Docteur: Cela peut être très dangereux, surtout si vous continuez à perdre des liquides. Avez-vous voyagé récemment ou mangé quelque chose de suspect ?
+
+Patient: Oui, j'ai voyagé dans un pays où l'hygiène n'est pas très bonne et j'ai mangé des fruits de mer.
+
+Docteur: Très bien, je comprends mieux. Je vais vous faire un test pour déterminer la cause de vos symptômes et je vais vous donner des médicaments pour vous aider à vous sentir mieux. Il est très important que vous buviez beaucoup de liquides pour éviter la déshydratation.
+
+Patient: D'accord, merci beaucoup Docteur. J'espère que cela va passer rapidement."
+2,A001,0011,0,NOOO,0,"CHOLERA A VIBRIO CHOLERAE 01, BIOVAR EL TOR","Choléra à Vibrio cholerae 01, biovar El Tor",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je ne me sens pas bien depuis quelques jours maintenant. J'ai des douleurs abdominales sévères, des vomissements et de la diarrhée.
+
+Docteur : D'accord, pouvez-vous me décrire vos selles ?
+
+Patient : Elles sont liquides et très fréquentes, ce qui m'inquiète beaucoup. Je ne sais pas quoi faire pour me soulager.
+
+Docteur : Avez-vous voyagé récemment dans une région où il y a eu des cas de choléra ?
+
+Patient : Oui, en fait j'étais en voyage d'affaires dans un pays où il y a eu une épidémie récente de choléra.
+
+Docteur : Je vois. Dans ce cas, il s'agit peut-être d'une infection au choléra. Nous devons effectuer des tests pour confirmer cela. En attendant, il est important que vous restiez hydraté et que vous preniez des sels de réhydratation orale pour remplacer les électrolytes perdus.
+
+Patient : D'accord, merci, docteur. Mais est-ce que cette maladie est dangereuse ? Est-ce que je vais guérir rapidement ?
+
+Docteur : Le choléra est une maladie dangereuse si elle n'est pas traitée rapidement et correctement. Nous allons tout faire pour vous soigner au plus vite. Mais il est important de suivre leurs traitements et de consulter un spécialiste dans les maladies infectieuses pour être sûr que tout est sous contrôle.
+
+Patient : Très bien, je comprends. Merci pour vos conseils, docteur."
+3,A009,0019,0,NOOO,0,"CHOLERA, SAI","Choléra, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je suis très inquiet car j'ai des symptômes qui me semblent très graves.
+
+Docteur : Bonjour, quels sont vos symptômes ?
+
+Patient : J'ai des diarrhées très fréquentes et abondantes, avec des vomissements et des crampes abdominales. Je me sens très faible et j'ai perdu beaucoup de poids en peu de temps.
+
+Docteur : Je comprends votre inquiétude. Ces symptômes peuvent en effet être très graves. Avez-vous voyagé récemment dans une région où le choléra est présent ?
+
+Patient : Oui, j'ai été en voyage dans un pays où il y a eu une épidémie de choléra.
+
+Docteur : Dans ce cas, il est possible que vous ayez contracté cette maladie. Le choléra est une infection bactérienne qui se transmet par l'eau ou les aliments contaminés. Il est très important de traiter cette maladie rapidement, car elle peut entraîner une déshydratation sévère et mettre la vie en danger.
+
+Patient : Que dois-je faire ?
+
+Docteur : Je vais vous prescrire des médicaments pour traiter les symptômes et vous donner des conseils pour vous hydrater correctement. Il est également important que vous évitiez de contaminer d'autres personnes en suivant les règles d'hygiène strictes.
+
+Patient : Merci docteur, je vais suivre vos conseils à la lettre."
+4,A01,Pas d'équivalence,3,NNNN,3,FIEVRES TYPHOIDE ET PARATYPHOIDE,Fièvres typhoïde et paratyphoïde,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: Bonjour, je ne me sens pas très bien. J'ai de la fièvre, des maux de tête et des douleurs abdominales.
+
+Docteur: D'accord, depuis combien de temps avez-vous ces symptômes?
+
+Patient: Depuis environ une semaine maintenant.
+
+Docteur: Avez-vous remarqué une perte d'appétit ou une fatigue accrue?
+
+Patient: Oui, je suis très fatigué et je n'ai pas envie de manger beaucoup.
+
+Docteur: Avez-vous voyagé récemment?
+
+Patient: Oui, j'étais en voyage d'affaires en Afrique il y a deux semaines.
+
+Docteur: D'accord. Il est possible que vous ayez contracté une maladie appelée fièvre typhoïde ou paratyphoïde. Ces maladies sont causées par une bactérie appelée Salmonella et sont courantes dans certaines régions d'Afrique.
+
+Patient: Oh non, ça a l'air grave.
+
+Docteur: Oui, c'est une maladie sérieuse mais elle peut être traitée avec des antibiotiques. Nous devons faire des tests pour confirmer le diagnostic et déterminer le meilleur traitement.
+
+Patient: D'accord, merci docteur. Que puis-je faire pour me sentir mieux en attendant?
+
+Docteur: Reposez-vous autant que possible, buvez beaucoup d'eau et évitez les aliments solides jusqu'à ce que nous puissions établir un diagnostic. Si vous avez de la fièvre, vous pouvez prendre du paracétamol pour la faire baisser.
+
+Patient: Merci beaucoup, docteur."
+5,A010,0020,0,NOOO,0,FIEVRE TYPHOIDE,Fièvre typhoïde,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai de la fièvre depuis quelques jours, et je me sens très fatigué.
+
+Docteur : D'accord, avez-vous d'autres symptômes ?
+
+Patient : Oui, j'ai des maux de tête et des douleurs abdominales. Je n'ai pas beaucoup d'appétit non plus.
+
+Docteur : Avez-vous voyagé récemment ?
+
+Patient : Oui, j'étais en voyage il y a quelques semaines.
+
+Docteur : D'accord, il est possible que vous ayez contracté une infection. Nous allons faire quelques tests pour déterminer ce qui se passe.
+
+Patient : D'accord, merci docteur.
+
+Docteur : En attendant les résultats, je vous recommande de vous reposer et de boire beaucoup d'eau pour éviter la déshydratation. Si vous avez de la fièvre, vous pouvez prendre du paracétamol pour la faire baisser.
+
+Patient : D'accord, je vais suivre vos conseils.
+
+Docteur : Nous vous contacterons dès que nous aurons les résultats des tests. En attendant, n'hésitez pas à nous contacter si vous avez des préoccupations ou si votre état empire.
+
+Patient : Merci docteur, je vous tiendrai au courant."
+6,A011,0021,0,NOOO,0,PARATYPHOIDE A,Paratyphoïde A,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas très bien, j'ai de la fièvre, des maux de tête et des douleurs abdominales.
+
+Docteur : Depuis quand avez-vous ces symptômes ?
+
+Patient : Depuis deux jours.
+
+Docteur : Avez-vous voyagé récemment ?
+
+Patient : Oui, j'étais en voyage d'affaires en Asie il y a deux semaines.
+
+Docteur : Très bien, cela pourrait être lié à votre voyage. Avez-vous eu des diarrhées ou des vomissements ?
+
+Patient : Non, pas vraiment.
+
+Docteur : D'accord, je vais vous prescrire des examens pour vérifier si vous avez une infection bactérienne. En attendant, il est important de bien vous hydrater et de vous reposer.
+
+Patient : D'accord, merci docteur.
+
+Docteur : N'hésitez pas à me contacter si vous avez d'autres symptômes ou si votre état se détériore."
+7,A012,0022,0,NOOO,0,PARATYPHOIDE B,Paratyphoïde B,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai de la fièvre, des maux de tête et des douleurs abdominales.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis environ une semaine.
+
+Docteur : Avez-vous voyagé récemment ?
+
+Patient : Oui, j'étais en voyage d'affaires en Asie il y a deux semaines.
+
+Docteur : D'accord. Avez-vous remarqué des changements dans vos selles ?
+
+Patient : Oui, elles sont plus fréquentes et plus liquides que d'habitude.
+
+Docteur : Très bien. Je vais vous prescrire des tests pour déterminer la cause de vos symptômes. En attendant, il est important que vous restiez hydraté et que vous preniez des antipyrétiques pour réduire votre fièvre.
+
+Patient : D'accord, merci docteur. Que pensez-vous que cela pourrait être ?
+
+Docteur : Il est difficile de dire sans les résultats des tests, mais il est possible que vous ayez contracté une infection bactérienne lors de votre voyage. Nous allons faire tout notre possible pour vous aider à vous rétablir rapidement."
+8,A013,0023,0,NOOO,0,PARATYPHOIDE C,Paratyphoïde C,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Je me sens vraiment malade. J'ai de la fièvre, des maux de tête et des douleurs abdominales.
+
+Docteur : Avez-vous récemment voyagé dans une région où il y a des maladies infectieuses ?
+
+Patient : Oui, j'ai récemment voyagé dans une région où la nourriture et l'eau étaient de mauvaise qualité.
+
+Docteur : D'accord, cela peut être la cause de vos symptômes. Avez-vous également remarqué une perte d'appétit et une fatigue générale ?
+
+Patient : Oui, j'ai également ces symptômes.
+
+Docteur : Il est possible que vous ayez contracté une infection bactérienne. Nous devrons effectuer des tests pour confirmer le diagnostic. En attendant, je vous recommande de vous reposer et de vous hydrater suffisamment.
+
+Patient : D'accord, merci docteur. Que puis-je faire pour soulager mes symptômes ?
+
+Docteur : Vous pouvez prendre des analgésiques pour soulager la douleur et la fièvre. Évitez les aliments gras et les boissons alcoolisées, car ils peuvent aggraver les symptômes.
+
+Patient : D'accord, je vais suivre vos conseils. Merci beaucoup docteur.
+
+Docteur : Pas de problème, nous ferons tout notre possible pour vous aider à vous rétablir. Revenez me voir si vos symptômes ne s'améliorent pas dans les prochains jours."
+9,A014,0029,0,NOOO,0,"PARATYPHOIDE, SAI","Paratyphoïde, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui?
+
+Patient : Bonjour, je ne me sens pas très bien en fait. J'ai de la fièvre, des douleurs abdominales et des nausées.
+
+Docteur : D'accord, depuis combien de temps ressentez-vous ces symptômes?
+
+Patient : Ça fait environ une semaine maintenant.
+
+Docteur : Avez-vous voyagé récemment dans un pays où il y a des problèmes de santé publique?
+
+Patient : Oui, j'ai été en Asie il y a environ deux semaines. Mais je n'ai pas été dans les zones à haut risque.
+
+Docteur : Très bien. Nous allons faire des tests pour voir ce qui se passe. En attendant, il est important que vous vous reposiez, que vous buviez beaucoup d'eau et que vous évitiez de préparer des aliments pour les autres.
+
+Patient : D'accord, je vais faire ça. Mais qu'est-ce que vous pensez que c'est?
+
+Docteur : Nous ne pouvons pas encore le dire avec certitude, mais cela pourrait être lié à une infection bactérienne. Nous allons en savoir plus après les résultats des tests.
+
+Patient : D'accord, merci docteur. Je vais suivre vos conseils.
+
+Docteur : Très bien, n'hésitez pas à revenir me voir si vous avez d'autres préoccupations ou si vos symptômes s'aggravent."
+10,A02,Pas d'équivalence,3,NNNN,3,"SALMONELLOSES, NCA",Autres salmonelloses,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas bien. J'ai de la fièvre, des douleurs abdominales, des nausées et des vomissements.
+
+Docteur : Depuis combien de temps ressentez-vous ces symptômes ?
+
+Patient : Depuis hier soir.
+
+Docteur : Avez-vous voyagé récemment ou mangé quelque chose de douteux ?
+
+Patient : Non, je n'ai rien mangé qui puisse être suspect et je n'ai pas voyagé.
+
+Docteur : Très bien, je vais vous prescrire des examens de sang et de selles pour déterminer la cause de vos symptômes. En attendant, je vous recommande de boire beaucoup d'eau pour éviter la déshydratation et de prendre des médicaments pour soulager la fièvre et la douleur abdominale.
+
+Patient : D'accord, merci docteur. Quelle est la cause la plus probable de mes symptômes ?
+
+Docteur : Nous ne pouvons pas encore en être sûrs, mais il se peut que vous ayez contracté une infection bactérienne telle qu'une salmonellose. Nous devons attendre les résultats des tests pour confirmer ou infirmer cette hypothèse. Dans tous les cas, nous allons tout mettre en œuvre pour vous aider à vous sentir mieux."
+11,A020,0030,0,NOOO,0,ENTERITE A SALMONELLA,Entérite à Salmonella,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai eu des nausées, des vomissements et de la diarrhée depuis quelques jours maintenant.
+
+Docteur : D'accord, avez-vous de la fièvre ou des douleurs abdominales ?
+
+Patient : Oui, j'ai de la fièvre et des douleurs abdominales aussi.
+
+Docteur : Très bien, cela peut être dû à une infection alimentaire. Avez-vous mangé quelque chose de suspect récemment ?
+
+Patient : Je ne suis pas sûr, mais j'ai mangé du poulet grillé il y a quelques jours.
+
+Docteur : Le poulet peut être une source courante d'infection à Salmonella. Nous allons faire quelques tests pour confirmer le diagnostic et vous prescrire des médicaments pour traiter les symptômes. Il est important de boire beaucoup d'eau pour éviter la déshydratation.
+
+Patient : D'accord, merci docteur. J'espère que je vais me sentir mieux bientôt."
+12,A021,0031,0,NOOO,0,SEPSIS A SALMONELLA,Sepsis à Salmonella,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: Bonjour, je ne me sens vraiment pas bien. J'ai de la fièvre et je me sens très fatigué.
+
+Docteur: D'accord, avez-vous remarqué d'autres symptômes?
+
+Patient: Oui, j'ai des maux de tête et j'ai l'impression que mon corps est très lourd.
+
+Docteur: Avez-vous eu des nausées ou des vomissements?
+
+Patient: Non, pas vraiment.
+
+Docteur: Avez-vous récemment voyagé ou mangé quelque chose d'inhabituel? Peut-être quelque chose qui était mal cuit?
+
+Patient: Hmm, je suis allé dans un restaurant il y a quelques jours et j'ai mangé un steak. Mais il avait l'air bien cuit.
+
+Docteur: D'accord, cela pourrait être utile. Nous allons faire quelques tests de sang pour voir s'il y a une infection. Vous pourriez avoir un sepsis. Cela signifie que votre corps a une réaction inflammatoire grave à une infection.
+
+Patient: Oh, c'est grave?
+
+Docteur: Oui, c'est une situation d'urgence. Si les résultats de la prise de sang confirment cela, nous devrons vous hospitaliser immédiatement pour un traitement antibiotique.
+
+Patient: D'accord, je ferai tout ce qu'il faut pour récupérer. 
+
+Docteur: Très bien. Nous allons faire tout notre possible pour vous aider à vous rétablir rapidement."
+13,A022,00320,0,NOOO,0,INFECT. LOC. A SALMONELLA,Infection localisée à Salmonella,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ? Vous avez l'air fatigué.
+
+Patient : Oui, je ne me sens pas très bien.
+
+Docteur : Pouvez-vous me dire quels sont vos symptômes ?
+
+Patient : J'ai eu de la fièvre, des maux de tête, des nausées et des douleurs abdominales.
+
+Docteur : Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également eu des diarrhées et des vomissements.
+
+Docteur : Avez-vous voyagé récemment ou mangé de la nourriture suspecte ?
+
+Patient : Non, je n'ai pas voyagé et je ne pense pas avoir mangé quelque chose de suspect.
+
+Docteur : Il se pourrait que vous ayez contracté une infection bactérienne. Nous allons effectuer des tests pour en savoir plus.
+
+Patient : Quelle genre d'infection bactérienne cela pourrait-il être ?
+
+Docteur : Je ne veux pas vous inquiéter, mais il y a plusieurs types d'infections bactériennes qui peuvent causer ces symptômes. Nous devons en savoir plus avant de poser un diagnostic précis.
+
+Patient : Je comprends. Que devrais-je faire en attendant les résultats des tests ?
+
+Docteur : Il est important que vous vous reposiez et que vous buviez beaucoup d'eau pour éviter la déshydratation. Si vous avez de la diarrhée sévère, nous pouvons vous prescrire un traitement pour la soulager.
+
+Patient : Très bien, merci docteur."
+14,A028,0038,0,NOOO,0,"INFECT. PREC. A SALMONELLA, NCA",Autres infections précisées à Salmonella,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas très bien. J'ai de la fièvre, des nausées et des vomissements.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis hier soir.
+
+Docteur : Avez-vous voyagé récemment ou mangé des aliments qui pourraient être à risque ?
+
+Patient : Je suis allé dans un restaurant hier soir et j'ai mangé du poulet.
+
+Docteur : D'accord, il est possible que vous ayez une infection bactérienne. Nous allons faire des tests pour déterminer la cause exacte de vos symptômes.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Nous ne pouvons pas encore le dire, mais il est important que nous trouvions la cause de vos symptômes et que nous commencions le traitement dès que possible.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Je vais vous prescrire des médicaments pour soulager vos symptômes en attendant les résultats des tests. Il est également important que vous restiez bien hydraté et que vous évitiez les aliments qui pourraient aggraver votre état.
+
+Patient : Merci docteur, je vais suivre vos conseils."
+15,A029,0039,0,NOOO,0,"SALMONELLOSE, SAI","Salmonellose, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas très bien, j'ai des nausées, des vomissements et des douleurs abdominales depuis hier soir.
+
+Docteur : Et avez-vous de la fièvre ?
+
+Patient : Oui, j'ai de la fièvre depuis hier soir aussi.
+
+Docteur : Avez-vous remarqué si vous aviez de la diarrhée ?
+
+Patient : Oui, j'ai eu quelques épisodes de diarrhée également.
+
+Docteur : D'accord, il est possible que vous ayez contracté une infection alimentaire. Avez-vous mangé quelque chose de particulier récemment ?
+
+Patient : Eh bien, j'ai mangé de la viande grillée lors d'un barbecue le week-end dernier.
+
+Docteur : Très bien, cela peut effectivement être la cause de vos symptômes. Il est possible que vous ayez une salmonellose. Je vais vous prescrire un traitement pour soulager vos symptômes et je vous recommande de bien vous hydrater. Si vos symptômes ne s'améliorent pas, il faudra envisager d'autres examens.
+
+Patient : Merci docteur, je vais suivre vos conseils."
+16,A03,Pas d'équivalence,3,NNNN,3,SHIGELLOSE,Shigellose,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas bien du tout. J'ai eu de la diarrhée pendant plusieurs jours maintenant et j'ai également eu des douleurs abdominales.
+
+Docteur : D'accord, cela peut être le résultat d'une infection bactérienne appelée shigellose. Avez-vous également eu de la fièvre ou des nausées ?
+
+Patient : Oui, j'ai eu de la fièvre et je me suis senti nauséeux.
+
+Docteur : Cela confirme mes soupçons. La shigellose est une infection bactérienne qui peut être transmise par la nourriture ou l'eau contaminée. Il est important que vous restiez hydraté et que vous évitiez de manger des aliments qui pourraient aggraver votre état. Je vais vous prescrire des antibiotiques pour aider à combattre l'infection.
+
+Patient : Merci, docteur. Combien de temps cela prendra-t-il pour que je me sente mieux ?
+
+Docteur : Cela dépend de la gravité de l'infection, mais vous devriez commencer à vous sentir mieux dans les prochains jours. Assurez-vous de suivre les instructions de dosage pour les antibiotiques et de continuer à boire beaucoup de liquides pour éviter la déshydratation.
+
+Patient : D'accord, je ferai tout ce que vous avez dit. Merci beaucoup, docteur.
+
+Docteur : De rien, prenez soin de vous et n'hésitez pas à me contacter si vous avez d'autres questions ou si vos symptômes ne s'améliorent pas."
+17,A030,0040,0,NOOO,0,SHIGELLOSE A SHIGELLA DYSENTERIAE,Shigellose à Shigella dysenteriae,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui?
+
+Patient : Je ne me sens pas très bien, j'ai des douleurs abdominales, de la fièvre et des diarrhées.
+
+Docteur : Depuis quand avez-vous ces symptômes?
+
+Patient : Depuis hier soir.
+
+Docteur : Avez-vous voyagé récemment ou avez-vous mangé quelque chose de suspect?
+
+Patient : Non, je suis resté à la maison et je n'ai rien mangé de différent.
+
+Docteur : Très bien, je vais vous faire passer quelques examens pour voir ce qui se passe. En attendant, il est important que vous buviez beaucoup d'eau pour éviter la déshydratation.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Il est possible que vous ayez une infection bactérienne, mais nous devons attendre les résultats des tests pour en être sûr. En attendant, il est important que vous évitiez de transmettre l'infection à d'autres personnes en vous lavant les mains régulièrement et en évitant de préparer des aliments pour les autres.
+
+Patient : D'accord, je vais faire attention. Merci docteur.
+
+Docteur : N'hésitez pas à me contacter si vos symptômes s'aggravent ou si vous avez d'autres questions. Nous sommes là pour vous aider."
+18,A031,0041,0,NOOO,0,SHIGELLOSE A SHIGELLA FLEXNERI,Shigellose à Shigella flexneri,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai eu de la diarrhée et des crampes d'estomac depuis quelques jours maintenant.
+
+Docteur : D'accord, pouvez-vous me dire à quel point la diarrhée est sévère ? Avez-vous remarqué du sang dans vos selles ?
+
+Patient : Oui, il y a du sang dans mes selles et la diarrhée est assez sévère.
+
+Docteur : Avez-vous de la fièvre ou des nausées ?
+
+Patient : Oui, j'ai eu de la fièvre et des nausées aussi.
+
+Docteur : D'accord, cela peut être un signe de shigellose. C'est une infection bactérienne qui peut causer des symptômes tels que la diarrhée, des crampes d'estomac, de la fièvre et du sang dans les selles. Nous allons faire des tests pour confirmer le diagnostic et vous donner le traitement approprié.
+
+Patient : D'accord, merci docteur. Que puis-je faire pour me sentir mieux en attendant ?
+
+Docteur : Assurez-vous de boire beaucoup de liquides pour éviter la déshydratation. Évitez les aliments gras et épicés, et prenez des médicaments contre la douleur si nécessaire. Nous vous donnerons également des instructions spécifiques pour votre traitement une fois que nous aurons les résultats des tests.
+
+Patient : D'accord, merci beaucoup docteur."
+19,A032,0042,0,NOOO,0,SHIGELLOSE A SHIGELLA BOYDII,Shigellose à Shigella boydii,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas très bien, j'ai des douleurs abdominales depuis quelques jours maintenant, accompagnées de diarrhées et de fièvre.
+
+Docteur : D'accord, avez-vous remarqué quelque chose d'inhabituel dans vos selles ?
+
+Patient : Oui, elles sont devenues très molles et j'ai remarqué du sang en les nettoyant.
+
+Docteur : Je vois. Avez-vous voyagé récemment ?
+
+Patient : Oui, je suis rentré d'un voyage en Inde il y a quelques semaines.
+
+Docteur : Très bien. Je vais vous prescrire des tests pour en savoir plus sur ce qui se passe. En attendant les résultats, vous devez boire beaucoup d'eau pour éviter la déshydratation et limiter la consommation de lait et de produits laitiers.
+
+Patient : D'accord, merci docteur. Qu'est-ce que vous pensez que je pourrais avoir ?
+
+Docteur : Il est difficile de dire pour l'instant, mais nous allons tout faire pour trouver un diagnostic précis et vous aider à vous sentir mieux. Restez en contact avec moi pour les résultats de vos tests et si vous avez d'autres symptômes qui se développent."
+20,A033,0043,0,NOOO,0,SHIGELLOSE A SHIGELLA SONNEI,Shigellose à Shigella sonnei,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Le docteur: Bonjour, comment allez-vous?
+
+Le patient: Bonjour docteur, je ne me sens pas très bien. J'ai de la fièvre, des douleurs abdominales et des diarrhées depuis quelques jours.
+
+Le docteur: D'accord, est-ce que vous avez remarqué quelque chose d'inhabituel dans vos selles?
+
+Le patient: Oui, elles sont très liquides et je remarque parfois du sang.
+
+Le docteur: Cela pourrait être le signe d'une infection bactérienne, comme une gastro-entérite. Avez-vous voyagé récemment ou mangé quelque chose d'inhabituel?
+
+Le patient: Non, je n'ai pas voyagé et je ne pense pas avoir mangé quelque chose de suspect.
+
+Le docteur: Dans ce cas, nous allons faire des tests pour déterminer la cause exacte de vos symptômes. En attendant, il est important que vous restiez bien hydraté et que vous évitiez les aliments gras et épicés.
+
+Le patient: D'accord, merci docteur.
+
+Le docteur: Nous vous contacterons dès que nous aurons les résultats des tests. En attendant, si vos symptômes s'aggravent ou si vous avez des difficultés à boire et à manger, n'hésitez pas à nous contacter en urgence."
+21,A038,0048,0,NOOO,0,"SHIGELLOSES, NCA",Autres shigelloses,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai eu de la diarrhée et des crampes abdominales pendant quelques jours maintenant.
+
+Docteur : D'accord, cela peut être dû à plusieurs raisons. Avez-vous de la fièvre ou des nausées ?
+
+Patient : Oui, j'ai eu de la fièvre et des nausées aussi.
+
+Docteur : Très bien, cela peut être un signe d'une infection bactérienne appelée shigellose. C'est une maladie qui se propage par la nourriture ou l'eau contaminée. Avez-vous voyagé récemment ou mangé quelque chose de suspect ?
+
+Patient : Je suis allé dans un pays en développement il y a quelques semaines, et j'ai mangé de la nourriture de rue là-bas.
+
+Docteur : Cela peut être la cause de votre maladie. Nous allons faire des tests pour confirmer le diagnostic et vous donner le traitement approprié. En attendant, assurez-vous de boire beaucoup d'eau pour éviter la déshydratation.
+
+Patient : D'accord, merci docteur. J'espère que cela ne sera pas trop grave.
+
+Docteur : Nous allons prendre soin de vous. Si vous avez d'autres symptômes ou si votre état s'aggrave, n'hésitez pas à me contacter immédiatement."
+22,A039,0049,0,NOOO,0,"SHIGELLOSE, SAI","Shigellose, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Docteur, je ne me sens pas bien du tout. J'ai des douleurs abdominales, de la fièvre et des nausées. Je suis très fatigué et j'ai des diarrhées fréquentes.
+
+Docteur : Ces symptômes sont assez courants pour plusieurs maladies. Avez-vous voyagé récemment ?
+
+Patient : Oui, j'étais dans un pays étranger il y a quelques semaines.
+
+Docteur : Je vois. Ces symptômes peuvent être dus à une infection alimentaire commune, comme la shigellose. Nous devrons effectuer des tests pour confirmer le diagnostic.
+
+Patient : Est-ce grave ? Je suis très inquiet.
+
+Docteur : La shigellose peut être grave si elle n'est pas traitée rapidement, mais la plupart des personnes se rétablissent complètement avec le traitement approprié. Nous allons prendre soin de vous et vous aider à récupérer."
+23,A04,Pas d'équivalence,3,NNNN,3,"INFECT. INTEST. BACT., NCA",Autres infections intestinales bactériennes,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ? Quels sont les symptômes que vous ressentez ?
+
+Patient : Bonjour, je ne me sens pas bien depuis quelques jours. J'ai des douleurs abdominales, de la diarrhée et des nausées.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Cela fait environ trois jours maintenant.
+
+Docteur : Avez-vous remarqué des changements dans vos habitudes alimentaires récemment ?
+
+Patient : Non, je mange comme d'habitude. Je n'ai rien changé.
+
+Docteur : Avez-vous voyagé récemment ou été en contact avec quelqu'un qui était malade ?
+
+Patient : Non, je n'ai pas voyagé et je ne connais personne qui est malade.
+
+Docteur : Je vais vous prescrire des tests pour voir ce qui pourrait causer vos symptômes. En attendant les résultats, il est important de bien vous hydrater et de vous reposer.
+
+Patient : D'accord, merci docteur.
+
+Docteur : N'hésitez pas à me contacter si vos symptômes s'aggravent ou si vous avez d'autres questions."
+24,A040,00801,0,NOOO,0,INFECT. ENTEROPATHOGENE A ESCHERICHIA COLI,Infection entéropathogène à Escherichia coli,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai des douleurs abdominales et des diarrhées depuis quelques jours.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand avez-vous ces symptômes ?
+
+Patient : Depuis environ une semaine maintenant.
+
+Docteur : Avez-vous remarqué si votre diarrhée est sanglante ou non ?
+
+Patient : Non, elle n'est pas sanglante.
+
+Docteur : Avez-vous de la fièvre ou des nausées ?
+
+Patient : Non, je n'ai pas de fièvre mais j'ai des nausées.
+
+Docteur : D'accord, je vais vous prescrire des médicaments pour soulager vos symptômes et je vous recommande de boire beaucoup d'eau pour éviter la déshydratation. Il est également important que vous vous reposiez et que vous évitiez les aliments gras et épicés.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Si vos symptômes ne s'améliorent pas dans les prochains jours, revenez me voir pour que nous puissions faire des tests supplémentaires."
+25,A041,00802,0,NOOO,0,INFECT. ENTEROTOXIGENE A ESCHERICHIA COLI,Infection entérotoxigène à Escherichia coli,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas bien du tout, docteur. J'ai des nausées, des vomissements et des diarrhées depuis quelques jours.
+
+Docteur : Je comprends. Avez-vous remarqué une fièvre ou des douleurs abdominales ?
+
+Patient : Oui, j'ai de la fièvre et mes douleurs abdominales sont assez intenses.
+
+Docteur : Ces symptômes peuvent être causés par diverses infections. Il est important que nous fassions des tests pour déterminer la cause exacte de vos symptômes. En attendant, veillez à boire beaucoup d'eau pour éviter la déshydratation.
+
+Patient : D'accord. Est-ce que cela pourrait être une intoxication alimentaire ?
+
+Docteur : C'est possible. Les intoxications alimentaires peuvent causer ces symptômes. Il est important de se laver les mains soigneusement et de bien cuire les aliments pour éviter les infections. Nous aurons plus d'informations une fois que nous aurons les résultats des tests. Si vos symptômes s'aggravent, veuillez appeler immédiatement afin d'obtenir une assistance.
+
+Patient : Merci, docteur. Je vais suivre vos conseils.
+
+Docteur : De rien, n'hésitez pas à me tenir au courant de tout changement."
+26,A042,00803,0,NOOO,0,INFECT. ENTERO-INVASIVE A ESCHERICHIA COLI,Infection entéro-invasive à Escherichia coli,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai eu de la fièvre et des douleurs abdominales.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis hier soir, et j'ai aussi eu des diarrhées.
+
+Docteur : Avez-vous voyagé récemment ou mangé quelque chose de différent ?
+
+Patient : Non, je suis resté à la maison et j'ai mangé comme d'habitude.
+
+Docteur : D'accord, il est possible que vous ayez une infection bactérienne. Nous allons faire des tests pour déterminer la cause exacte de vos symptômes. En attendant, il est important que vous restiez hydraté et que vous évitiez les aliments gras et épicés.
+
+Patient : D'accord, merci docteur. Est-ce que je vais devoir prendre des antibiotiques ?
+
+Docteur : Nous verrons ce que disent les résultats des tests, mais il est possible que des antibiotiques soient nécessaires pour traiter l'infection.
+
+Patient : D'accord, je vais suivre vos conseils. Merci beaucoup, docteur."
+27,A043,00804,0,NOOO,0,INFECT. ENTERO-HEMORR. A ESCHERICHIA COLI,Infection entéro-hémorragique à Escherichia coli,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas bien du tout, j'ai des douleurs abdominales terribles, de la diarrhée et je vomis régulièrement.
+
+Docteur : Je vois… depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Ça a commencé hier soir, et ça ne s'est pas arrêté depuis.
+
+Docteur : Avez-vous remarqué si vous avez du sang dans vos selles ?
+
+Patient : Oui, j'ai remarqué du sang rouge vif, et ça m'inquiète vraiment.
+
+Docteur : Je comprends votre inquiétude. Vous avez peut-être contracté une infection bactérienne qui provoque ces symptômes. Nous allons faire des tests pour déterminer la cause de votre malaise et décider du traitement approprié.
+
+Patient : Merci docteur. Je suis vraiment inquiet.
+
+Docteur : Je sais, mais nous allons découvrir quelle est la cause de ces symptômes et nous allons trouver un traitement pour que vous puissiez vous rétablir le plus tôt possible."
+28,A044,00809,0,NOOO,0,"INFECT. INTEST. A ESCHERICHIA COLI, NCA",Autres infections intestinales à Escherichia coli,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Docteur, j'ai des douleurs abdominales depuis quelques jours et je me sens très fatigué.
+
+Docteur : Avez-vous remarqué des changements dans vos selles ces derniers temps ?
+
+Patient : Oui, elles ont été plutôt molles et j'ai eu quelques épisodes de diarrhée.
+
+Docteur : Avez-vous mangé quelque chose de différent récemment ou voyagé dans un pays étranger ?
+
+Patient : Non, je suis resté dans la même ville et j'ai mangé les mêmes aliments que d'habitude.
+
+Docteur : D'accord, je vais vous prescrire des examens pour vérifier si vous avez une infection bactérienne. En attendant, je vous recommande de boire beaucoup d'eau et de manger des aliments légers pour aider votre système digestif.
+
+Patient : D'accord, merci beaucoup docteur. Je suis un peu inquiet, mais je vais suivre vos conseils.
+
+Docteur : Il est important de traiter rapidement ce type d'infection pour éviter des complications, mais je suis là pour vous aider et nous allons trouver la meilleure solution pour vous."
+29,A045,00843,0,NOOO,0,ENTERITE A CAMPYLOBACTER,Entérite à Campylobacter,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je suis vraiment inquiet. Depuis quelques jours, j'ai des douleurs abdominales intenses, des nausées et des vomissements. Je me sens très fatigué et j'ai également de la fièvre.
+
+Docteur : Bonjour, ces symptômes sont effectivement préoccupants. Avez-vous récemment consommé des aliments crus ou peu cuits, en particulier de la viande ou de la volaille ?
+
+Patient : Oui, en fait j'ai mangé du poulet grillé il y a quelques jours.
+
+Docteur : Très bien, cela peut être une piste. Je vais vous prescrire des examens pour déterminer la cause de vos symptômes. En attendant, il est important que vous restiez hydraté et que vous évitiez de manger des aliments solides.
+
+Patient : D'accord, merci docteur. J'espère que ce n'est rien de grave.
+
+Docteur : Nous allons tout mettre en œuvre pour vous aider. Dans tous les cas, il est important de traiter rapidement ces symptômes pour éviter toute complication."
+30,A046,00844,0,NOOO,0,ENTERITE A YERSINIA ENTEROCOLITICA,Entérite à Yersinia enterocolitica,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Le patient : Bonjour docteur, je suis inquiet car j'ai des douleurs abdominales et de la diarrhée depuis quelques jours. Je me sens fatigué et fiévreux aussi.
+
+Le docteur : Je comprends, ces symptômes peuvent être causés par plusieurs maladies, mais j'ai besoin de vous poser quelques questions pour mieux comprendre votre condition. Avez-vous mangé quelque chose de suspect récemment ?
+
+Le patient : Je ne pense pas, j'ai juste mangé des légumes et de la viande cuits à la maison.
+
+Le docteur : D'accord, avez-vous été en contact avec des animaux récemment, en particulier des porcs ?
+
+Le patient : Non, je n'ai pas été en contact avec des porcs.
+
+Le docteur : Très bien. Ces symptômes peuvent être causés par une infection bactérienne appelée entérite à Yersinia enterocolitica. Cette bactérie peut être présente dans les aliments contaminés et peut causer une infection gastro-intestinale. Nous allons faire quelques tests pour confirmer le diagnostic et nous pourrons ensuite commencer le traitement approprié.
+
+Le patient : D'accord, merci docteur pour votre aide. Je suis soulagé de savoir ce qui ne va pas avec moi. 
+
+Le docteur : Il n'y a pas de quoi. Nous allons rapidement trouver une solution pour vous aider à vous sentir mieux."
+31,A047,00845,0,NOOO,0,ENTEROCOLITE A CLOSTRIDIUM DIFFICILE,Entérocolite à Clostridium difficile,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai des douleurs abdominales et je suis très fatigué.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Cela fait environ une semaine maintenant.
+
+Docteur : Avez-vous remarqué des changements dans vos selles ?
+
+Patient : Oui, elles sont très liquides et j'ai souvent des diarrhées.
+
+Docteur : Avez-vous récemment pris des antibiotiques ?
+
+Patient : Oui, j'ai eu une infection des sinus et j'ai pris des antibiotiques pendant une semaine.
+
+Docteur : Il est possible que vous ayez une infection bactérienne appelée entérocolite à Clostridium difficile. Nous allons faire des tests pour confirmer le diagnostic et commencer un traitement approprié.
+
+Patient : Qu'est-ce que c'est et comment cela se traite ?
+
+Docteur : C'est une infection de l'intestin causée par une bactérie qui se développe souvent après la prise d'antibiotiques. Le traitement consiste à prendre des antibiotiques spécifiques et à maintenir une bonne hydratation.
+
+Patient : Merci docteur, j'espère que cela va s'améliorer bientôt.
+
+Docteur : Nous allons tout faire pour que vous vous sentiez mieux rapidement. N'hésitez pas à me contacter si vous avez d'autres questions ou si vos symptômes s'aggravent."
+32,A048,00849,0,NOOO,0,"INFECT. INTEST. BACT. PREC., NCA",Autres infections intestinales bactériennes précisées,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Bonjour, ça ne va pas très bien. J'ai eu des douleurs abdominales depuis quelques jours maintenant, et j'ai aussi eu des nausées et des vomissements.
+
+Docteur : D'accord, cela peut être lié à une infection bactérienne intestinale. Avez-vous remarqué d'autres symptômes, comme de la fièvre ou de la diarrhée ?
+
+Patient : Oui, j'ai eu de la fièvre et j'ai eu des selles plus fréquentes et plus liquides que d'habitude.
+
+Docteur : D'accord, cela confirme mes soupçons. Nous allons effectuer quelques tests pour déterminer la cause exacte de vos symptômes.
+
+Patient : Est-ce quelque chose de grave ?
+
+Docteur : Eh bien, il est important de traiter rapidement une infection bactérienne intestinale pour éviter des complications, mais ne vous inquiétez pas, nous allons faire tout ce qui est nécessaire pour vous aider à vous sentir mieux.
+
+Patient : Très bien, merci docteur. Que puis-je faire en attendant les résultats des tests ?
+
+Docteur : Il est important de rester hydraté en buvant beaucoup d'eau et en évitant les aliments solides jusqu'à ce que nous ayons un diagnostic précis. Je vais également vous prescrire un traitement pour soulager vos symptômes en attendant les résultats.
+
+Patient : D'accord, merci beaucoup docteur."
+33,A049,0085,0,NOOO,0,"INFECT. INTEST. BACT., SAI","Infection intestinale bactérienne, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je suis venu vous voir car j'ai des douleurs abdominales et des diarrhées depuis quelques jours. Je ne sais pas ce qui se passe.
+
+Docteur : Bonjour, pouvez-vous me dire depuis combien de temps vous avez ces symptômes ?
+
+Patient : Ça fait environ 4 jours maintenant.
+
+Docteur : Avez-vous de la fièvre ou des nausées ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Avez-vous voyagé récemment ou mangé quelque chose de différent de d'habitude ?
+
+Patient : Non, je suis resté chez moi et j'ai mangé comme d'habitude.
+
+Docteur : Je vais vous prescrire des examens pour vérifier ce qui se passe. En attendant, il est important de boire beaucoup d'eau pour éviter la déshydratation. Évitez également les aliments gras et épicés.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Nous vous contacterons dès que nous aurons les résultats des examens. En attendant, si vos symptômes s'aggravent, n'hésitez pas à nous contacter immédiatement."
+34,A05,Pas d'équivalence,3,NNNN,3,"INTOX. BACT. D'ORIGINE ALIMENTAIRE, NCA","Autres intoxications bactériennes d'origine alimentaire, non classées ailleurs",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas bien du tout. J'ai des nausées, des vomissements et des douleurs abdominales.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis hier soir. J'ai mangé un plat de fruits de mer dans un restaurant, et je pense que c'est ce qui m'a rendu malade.
+
+Docteur : D'accord. Avez-vous de la fièvre ?
+
+Patient : Oui, j'ai de la fièvre et je me sens très fatigué.
+
+Docteur : Il est possible que vous ayez une intoxication alimentaire d'origine bactérienne. Nous allons faire des examens pour déterminer la cause exacte de vos symptômes et vous donner le traitement approprié.
+
+Patient : Est-ce que je vais guérir rapidement ?
+
+Docteur : Cela dépend de la gravité de l'infection. Dans la plupart des cas, les symptômes disparaissent en quelques jours avec un traitement approprié. Mais il est important de suivre les instructions du traitement et de rester hydraté.
+
+Patient : Merci docteur. Je vais suivre vos conseils.
+
+Docteur : Très bien. Nous allons faire les examens nécessaires et vous donner le traitement approprié. N'hésitez pas à me contacter si vous avez d'autres questions ou si vos symptômes s'aggravent."
+35,A050,0050,0,NOOO,0,INTOX. ALIMENTAIRE A STAPHYLO.,Intoxication alimentaire à staphylocoques,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+Patient : Je ne me sens pas très bien, j'ai des nausées, des vomissements, des maux de tête et de fortes douleurs abdominales.
+Docteur : Depuis quand avez-vous ces symptômes ?
+Patient : Depuis hier soir, juste après avoir mangé un sandwich au fromage.
+Docteur : Il se pourrait que vous ayez une intoxication alimentaire. Avez-vous mangé quelque chose d'autre en dehors de ce sandwich ?
+Patient : Non, c'est le seul aliment que j'ai mangé depuis hier.
+Docteur : Dans ce cas, il est possible que ce soit une infection à staphylocoques. C'est une bactérie qui peut se développer dans les aliments mal conservés ou préparés dans des conditions insalubres. Avez-vous remarqué si le sandwich avait une odeur ou un goût étrange ?
+Patient : Maintenant que vous le mentionnez, je me rappelle qu'il avait un goût plutôt fort.
+Docteur : Cela confirme notre hypothèse. Les symptômes d'une intoxication à staphylocoques peuvent se produire très rapidement après avoir mangé l'aliment contaminé, souvent dans les deux à six heures qui suivent. Nous allons vous prescrire des médicaments pour traiter les nausées et les vomissements. Je vous conseille également de boire beaucoup d'eau pour vous hydrater et de vous reposer. Si vos symptômes ne s'améliorent pas dans les prochaines heures, n'hésitez pas à revenir me voir."
+36,A051,0051,0,NOOO,0,BOTULISME,Botulisme,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je ne me sens pas bien depuis quelques jours. J'ai des douleurs musculaires et des crampes, ainsi que des difficultés à avaler et à parler.
+
+Docteur : Ces symptômes sont très préoccupants. Avez-vous remarqué des problèmes de vision ou des étourdissements ?
+
+Patient : Oui, j'ai effectivement des problèmes de vision floue et je me sens très fatigué.
+
+Docteur : Il est important que vous veniez immédiatement à l'hôpital pour un examen approfondi. Ces symptômes pourraient être liés à une maladie grave et nécessitent une attention médicale immédiate.
+
+Patient : D'accord, je vais me rendre à l'hôpital tout de suite. Merci docteur."
+37,A052,0052,0,NOOO,0,INTOX. ALIMENTAIRE A CLOSTRIDIUM PERFRINGENS,Intoxication alimentaire à Clostridium perfringens [Clostridium welchii],A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas très bien. J'ai eu des douleurs abdominales, des nausées et des vomissements.
+
+Docteur : Depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis hier soir. J'ai mangé un repas dans un restaurant et je pense que c'est ce qui m'a rendu malade.
+
+Docteur : D'accord, je vois. Avez-vous de la diarrhée ?
+
+Patient : Oui, j'ai eu quelques épisodes de diarrhée aussi.
+
+Docteur : Très bien. Il est possible que vous ayez une intoxication alimentaire. Nous allons faire des tests pour déterminer la cause exacte de vos symptômes. En attendant, je vous recommande de rester hydraté et de prendre des antidiarrhéiques si nécessaire.
+
+Patient : D'accord, merci docteur. Est-ce que ça va durer longtemps ?
+
+Docteur : Cela dépend de la cause de l'intoxication alimentaire. Dans la plupart des cas, les symptômes disparaissent en quelques jours. Mais nous devons surveiller votre état de près pour éviter toute complication.
+
+Patient : Compris, merci beaucoup.
+
+Docteur : Pas de problème. Si vous avez d'autres symptômes ou si vous vous sentez plus mal, n'hésitez pas à me contacter immédiatement."
+38,A053,0054,0,NOOO,0,INTOX. ALIMENTAIRE A VIBRIO PARAHAEMOLYTICUS,Intoxication alimentaire à Vibrio parahaemolyticus,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ? Que puis-je faire pour vous aujourd'hui ?
+
+Patient : Bonjour, je ne me sens pas très bien. J'ai des douleurs abdominales, des nausées et des vomissements.
+
+Docteur : D'accord, depuis combien de temps avez-vous ces symptômes ?
+
+Patient : Depuis hier soir, j'ai mangé des fruits de mer au dîner.
+
+Docteur : D'accord, il est possible que vous ayez une intoxication alimentaire. Avez-vous de la fièvre ?
+
+Patient : Oui, j'ai de la fièvre et je me sens très fatigué.
+
+Docteur : D'accord, il est important que vous vous hydratiez bien. Buvez beaucoup d'eau et de liquides clairs. Évitez les aliments solides pour l'instant. Je vais vous prescrire un médicament pour aider à soulager vos symptômes.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Si vos symptômes ne s'améliorent pas dans les prochaines 24 heures, revenez me voir ou rendez-vous aux urgences. Il est possible que nous ayons besoin de faire des tests pour déterminer la cause de vos symptômes.
+
+Patient : D'accord, je ferai ça. Merci beaucoup docteur."
+39,A054,00589,0,NOOO,0,INTOX. ALIMENTAIRE A BACILLUS CEREUS,Intoxication alimentaire à Bacillus cereus,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas bien du tout. J'ai eu des nausées et des vomissements toute la nuit.
+
+Docteur : D'accord, avez-vous mangé quelque chose de suspect récemment ?
+
+Patient : Oui, j'ai mangé du riz frit hier soir dans un restaurant.
+
+Docteur : D'accord, il est possible que vous ayez une intoxication alimentaire. Les symptômes que vous décrivez sont courants pour ce type de maladie. Avez-vous eu de la diarrhée aussi ?
+
+Patient : Oui, j'ai eu de la diarrhée toute la matinée.
+
+Docteur : Très bien, il est important que vous restiez hydraté. Buvez beaucoup d'eau et de liquides clairs. Si vos symptômes persistent, nous pourrions envisager des médicaments pour soulager les nausées et les vomissements.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Et n'oubliez pas de vous reposer autant que possible. Si vous avez besoin de quelque chose, n'hésitez pas à me contacter."
+40,A058,00589,0,NOOO,0,"INTOX. BACT. D'ORIGINE ALIMENTAIRE PREC., NCA",Autres intoxications bactériennes d'origine alimentaire précisées,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Docteur: Bonjour, comment ça va aujourd'hui?
+
+Patient: Je ne me sens pas très bien. J'ai eu des douleurs abdominales, des vomissements et de la diarrhée.
+
+Docteur: Combien de temps avez-vous eu ces symptômes?
+
+Patient: Ça a commencé hier soir après avoir mangé un repas à l'extérieur.
+
+Docteur: Avez-vous eu de la fièvre?
+
+Patient: Oui, j'ai eu de la fièvre depuis hier soir.
+
+Docteur: Avez-vous mangé des fruits de mer ou de la viande crue récemment?
+
+Patient: Oui, j'ai mangé des fruits de mer hier soir.
+
+Docteur: Il est possible que vous ayez une intoxication alimentaire. Nous devons faire des tests pour déterminer la cause exacte de vos symptômes. En attendant, assurez-vous de boire beaucoup d'eau pour éviter la déshydratation.
+
+Patient: D'accord, merci docteur. J'espère que ça ne va pas être trop grave.
+
+Docteur: Nous allons faire tout ce que nous pouvons pour vous aider à récupérer rapidement. Si vous avez des symptômes graves comme des vomissements excessifs ou une forte fièvre, revenez me voir immédiatement."
+41,A059,0059,0,NOOO,0,"INTOX. BACT. D'ORIGINE ALIMENTAIRE, SAI","Intoxication bactérienne d'origine alimentaire, sans précision",A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient: Bonjour docteur, je viens vous voir parce que j'ai des douleurs abdominales et des nausées depuis hier soir. Je ne sais pas ce qui se passe.
+
+Docteur: Bonjour, pouvez-vous me dire si vous avez mangé quelque chose de différent récemment?
+
+Patient: Oui, hier soir j'ai mangé des fruits de mer dans un restaurant que je ne connaissais pas.
+
+Docteur: Ah, je vois. Il est possible que vous ayez une intoxication alimentaire d'origine bactérienne. Les symptômes que vous décrivez sont courants dans ce type de situation.
+
+Patient: Oh non, c'est grave docteur?
+
+Docteur: Pas nécessairement, mais il est important de traiter les symptômes pour éviter toute complication. Je vais vous prescrire des médicaments pour soulager les douleurs et les nausées, ainsi que des conseils pour une bonne hydratation.
+
+Patient: Merci docteur, je suis soulagé de savoir ce qui se passe. Je vais suivre vos conseils.
+
+Docteur: Très bien, prenez soin de vous et n'hésitez pas à revenir me voir si les symptômes persistent."
+42,A06,Pas d'équivalence,3,NNNN,3,AMIBIASE,Amibiase,A00–B99,Certaines maladies infectieuses et parasitaires,Infectiologie,A00–B99,A00–B99,Infectiologie,"
+
+Patient : Bonjour docteur, je suis inquiet car j'ai eu des selles molles et fréquentes ces derniers jours, et j'ai remarqué que je perds du poids.
+
+Docteur : Je comprends votre inquiétude. Avez-vous d'autres symptômes, tels que des douleurs abdominales, de la fièvre ou des nausées?
+
+Patient : Oui, j'ai eu des douleurs abdominales légères, mais pas de fièvre et pas de nausées.
+
+Docteur : Avez-vous voyagé récemment dans des régions où l'eau et les aliments peuvent être contaminés?
+
+Patient : Je suis allé en vacances au Mexique il y a deux mois, mais j'ai mangé et bu dans des endroits recommandés par l'hôtel.
+
+Docteur : Il est possible que vous souffriez d'une infection parasitaire appelée amibiase. Les symptômes que vous décrivez sont courants chez les personnes atteintes de cette maladie. Nous devrons faire des tests pour confirmer le diagnostic.
+
+Patient : Qu'est-ce que c'est exactement l'amibiase?
+
+Docteur : L'amibiase est causée par un parasite appelé Entamoeba histolytica. Il est souvent transmis par l'eau et les aliments contaminés, en particulier dans les zones où les conditions sanitaires sont mauvaises. Si ce diagnostic est confirmé, nous pouvons commencer un traitement efficace pour lutter contre l'infection.
+
+Patient : Merci docteur, je suis soulagé de savoir que nous pourrons traiter cela."
