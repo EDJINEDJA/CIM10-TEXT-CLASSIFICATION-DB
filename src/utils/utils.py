@@ -682,13 +682,3 @@ class Utils():
                         # Écriture d'une nouvelle ligne dans le fichier CSV
                         writer1.writerow(row)
                     time.sleep(60)
-
-
-
-
-
-
-
-
-
-

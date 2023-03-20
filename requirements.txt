@@ -19,3 +19,4 @@ Options:
   -v, --verbose          Verbose mode.
   --pypi-mirror TEXT     Specify a PyPI mirror.
   -h, --help             Show this message and exit.
+  #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
