@@ -40265,3 +40265,1596 @@ Docteur : Nous allons d'abord effectuer des examens pour confirmer le diagnostic
 Patient : Compris. Je vais faire de mon mieux pour suivre ces conseils.
 
 Docteur : Parfait. Nous allons prendre soin de vous et nous assurer que vous recevez le traitement dont vous avez besoin. N'hésitez pas à me contacter si vous avez d'autres questions ou si vous avez besoin d'aide."
+1888,D539,2819,0,NOOO,0,"ANEMIE NUTR., SAI","Anémie nutritionnelle, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient : Bonjour docteur, j'ai remarqué ces derniers temps que je me sens très fatigué et j'ai du mal à me concentrer.
+
+Docteur : Bonjour, pouvez-vous me décrire un peu plus vos symptômes ?
+
+Patient : Eh bien, je me sens très faible et j'ai du mal à me lever le matin. J'ai aussi remarqué que ma peau est plus pâle qu'avant et que je suis facilement essoufflé.
+
+Docteur : Ces symptômes peuvent être liés à une carence en fer ou en vitamines dans votre alimentation. Je vais vous prescrire des analyses de sang pour en avoir le cœur net.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Il est important que vous preniez soin de votre alimentation et que vous mangez des aliments riches en fer et en vitamines pour éviter que cela ne se reproduise à l'avenir.
+
+Patient : Très bien, je ferai attention à cela. Merci beaucoup docteur."
+1889,D55,Pas d'équivalence,3,NNNN,3,ANEMIE DUE A DES ANOM. ENZYM.,Anémie due à des anomalies enzymatiques,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient: Bonjour docteur, je me sens très fatigué ces derniers temps. Je n'ai pas beaucoup d'énergie et je suis souvent essoufflé.
+
+Docteur: Je vois. Avez-vous remarqué d'autres symptômes?
+
+Patient: Oui, j'ai aussi eu des vertiges et des maux de tête récemment.
+
+Docteur: Cela peut être lié à une anémie. Avez-vous déjà eu des problèmes de santé similaires auparavant?
+
+Patient: Non, pas vraiment.
+
+Docteur: Eh bien, il est possible que vous ayez une anémie due à des anomalies enzymatiques. Cela signifie que votre corps ne produit pas suffisamment de globules rouges en raison d'un problème avec une enzyme spécifique.
+
+Patient: Que pouvez-vous faire pour moi?
+
+Docteur: Nous devrons effectuer des tests pour confirmer le diagnostic, mais si c'est bien le cas, il existe des traitements qui peuvent aider à stimuler la production de globules rouges et soulager vos symptômes. Nous travaillerons ensemble pour élaborer un plan de traitement personnalisé pour vous."
+1890,D550,2822,0,NOOO,0,ANEMIE DUE A UNE CARENCE EN GLUCOSE-6-PHOSPHATE DESHYDROGENASE,Anémie due à une carence en glucose-6-phosphate déshydrogénase [G6PD],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Bonjour, je suis très fatigué et j'ai remarqué que ma peau est plus jaune que d'habitude.
+
+Docteur : Je vois. Avez-vous remarqué une diminution de l'appétit ou une perte de poids récemment ?
+
+Patient : Oui, j'ai perdu du poids sans raison apparente et je n'ai pas tellement envie de manger.
+
+Docteur : Bien. Avez-vous eu des douleurs abdominales ou des nausées ?
+
+Patient : Oui, j'ai eu des douleurs abdominales et j'ai eu des nausées à plusieurs reprises.
+
+Docteur : D'accord, je vais devoir vous prescrire quelques tests pour évaluer votre état de santé. Il est possible que vous ayez une carence en certaines vitamines ou minéraux, mais nous devrons attendre les résultats des tests pour en être sûr.
+
+Patient : D'accord, merci docteur. J'espère que ce n'est rien de grave.
+
+Docteur : Nous ferons tout notre possible pour vous aider à vous sentir mieux. Nous vous contacterons dès que les résultats des tests seront disponibles. En attendant, assurez-vous de bien vous reposer et de vous hydrater suffisamment."
+1891,D551,2822,0,NOOO,0,ANEMIE DUE A D'AUTRES ANOM. DU METAB. DU GLUTATHION,Anémie due à d'autres anomalies du métabolisme du glutathion,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai du mal à me concentrer.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait quelques semaines maintenant. J'ai aussi remarqué que ma peau est devenue plus pâle.
+
+Docteur : Avez-vous remarqué d'autres changements dans votre corps ?
+
+Patient : Oui, j'ai également eu des maux de tête et des étourdissements.
+
+Docteur : Très bien, je vais devoir vous faire passer quelques tests pour déterminer la cause de vos symptômes. Il est possible que vous ayez une carence en fer ou une autre maladie qui affecte votre production de globules rouges.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Nous ne pouvons pas encore le dire, mais nous allons faire tout notre possible pour trouver la cause de vos symptômes et vous aider à vous sentir mieux.
+
+Patient : D'accord, merci docteur."
+1892,D552,2823,0,NOOO,0,ANEMIE DUE A DES ANOM. DES ENZYM. GLYCOLYTIQUES,Anémie due à des anomalies des enzymes glycolytiques,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Pas très bien, je me sens fatigué et faible la plupart du temps.
+
+Docteur : Depuis combien de temps ressentez-vous ces symptômes ?
+
+Patient : Depuis quelques semaines maintenant. J'ai aussi remarqué que je suis facilement essoufflé et que j'ai du mal à me concentrer.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des douleurs musculaires ou des crampes ?
+
+Patient : Oui, j'ai eu des douleurs musculaires récemment, surtout après avoir fait de l'exercice.
+
+Docteur : Je vois. Avez-vous déjà eu des problèmes de santé auparavant ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Eh bien, je vais devoir faire quelques tests pour déterminer la cause de vos symptômes. Il est possible que vous souffriez d'une maladie qui affecte les enzymes responsables de la glycolyse, qui est un processus important pour la production d'énergie dans le corps.
+
+Patient : Qu'est-ce que cela signifie ? Est-ce grave ?
+
+Docteur : Nous ne pouvons pas encore le dire avec certitude, mais il est important que nous trouvions la cause de vos symptômes et que nous commencions un traitement approprié dès que possible. Nous allons faire des tests sanguins et d'autres examens pour en savoir plus.
+
+Patient : D'accord, merci docteur. J'espère que ce n'est pas quelque chose de trop grave.
+
+Docteur : Nous ferons tout notre possible pour vous aider à vous sentir mieux. Nous vous tiendrons informé dès que nous aurons les résultats des tests. En attendant, essayez de vous reposer autant que possible et évitez de faire trop d'exercice ou de vous fatiguer trop rapidement."
+1893,D553,2823,0,NOOO,0,ANEMIE DUE A DES ANOM. DU METAB. DES NUCLEOTIDES,Anémie due à des anomalies du métabolisme des nucléotides,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. Je suis fatigué tout le temps, je me sens faible et j'ai l'impression que mon cœur bat plus vite que d'habitude.
+
+Docteur : D'accord. Avez-vous remarqué d'autres symptômes, comme des vertiges ou des maux de tête ?
+
+Patient : Oui, j'ai eu quelques vertiges et des maux de tête récemment. Et j'ai perdu du poids sans le vouloir.
+
+Docteur : Je vois. Ces symptômes peuvent être causés par différentes choses, et nous devrons effectuer quelques tests pour déterminer la source de votre problème.
+
+Patient : D'accord, je ferai tout ce qu'il faut. Mais je suis inquiet, est-ce que c'est grave ?
+
+Docteur : Il est trop tôt pour le dire pour l'instant, mais nous allons faire tout notre possible pour découvrir ce qui ne va pas. Il est important que nous trouvions la cause de vos symptômes afin de pouvoir vous traiter.
+
+Patient : D'accord, je comprends. Est-ce que je dois me préparer à quelque chose de particulier pour les tests ?
+
+Docteur : Nous allons avoir besoin de prélever un peu de votre sang pour effectuer certains tests de laboratoire. Et nous pourrions également faire une échographie pour regarder votre cœur et vos organes internes. Mais nous en saurons plus une fois que nous aurons les résultats de vos tests sanguins.
+
+Patient : D'accord, merci docteur. Je suis inquiet à propos de tout ça, mais je suis prêt à faire ce qu'il faut pour me soigner.
+
+Docteur : Ne vous inquiétez pas, nous allons travailler ensemble pour trouver une solution. Et nous ferons tout notre possible pour vous aider à vous sentir mieux."
+1894,D558,2823,0,NOOO,0,"ANEMIES DUES A DES ANOM. ENZYM., NCA",Autres anémies dues à des anomalies enzymatiques,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour monsieur, que puis-je faire pour vous aujourd'hui ?
+
+Patient : Bonjour docteur, j'ai remarqué que je suis très fatigué ces derniers temps, même si je dors bien la nuit. De plus, j'ai des douleurs abdominales et des nausées.
+
+Docteur : Je vois. Avez-vous remarqué une perte de poids récente ou une appétence pour certaines nourritures ?
+
+Patient : Pas vraiment. Mais je me sens faible et j'ai du mal à me concentrer au travail.
+
+Docteur : Bien, nous allons effectuer des tests sanguins pour déterminer la cause de vos symptômes. Il est possible que vous ayez une anémie, qui est une condition où votre corps ne produit pas suffisamment de globules rouges.
+
+Patient : Mais pourquoi cela se produit-il ?
+
+Docteur : Il y a différentes raisons pour lesquelles cela peut arriver. Dans votre cas, cela peut être dû à des anomalies enzymatiques dans votre corps.
+
+Patient : Des anomalies enzymatiques ?
+
+Docteur : Oui, cela signifie que certaines enzymes de votre corps ne fonctionnent pas correctement, ce qui affecte la production de globules rouges et peut causer une anémie.
+
+Patient : Je vois. Qu'est-ce que je peux faire pour traiter cela ?
+
+Docteur : Tout dépend de la cause sous-jacente de votre anémie. Nous devons d'abord déterminer quelle est la cause exacte avant de pouvoir vous donner un traitement approprié. Mais ne vous inquiétez pas, nous allons tout mettre en œuvre pour vous aider à vous sentir mieux.
+
+Patient : Merci docteur, je vous fais confiance."
+1895,D559,2823,0,NOOO,0,"ANEMIE DUE A DES ANOM. ENZYM., SAI","Anémie due à des anomalies enzymatiques, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, monsieur. Comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai du mal à me concentrer.
+
+Docteur : Je comprends. Pouvez-vous me dire depuis combien de temps vous avez ces symptômes ?
+
+Patient : Depuis quelques semaines maintenant.
+
+Docteur : Avez-vous remarqué quelque chose de différent dans votre alimentation ou votre mode de vie récemment ?
+
+Patient : Non, je n'ai rien changé. Pourquoi cette question ?
+
+Docteur : Eh bien, ces symptômes peuvent être causés par différentes choses, notamment des carences nutritionnelles ou des troubles du sommeil. Cependant, il est également possible que cela soit lié à votre sang. Nous allons procéder à des examens pour voir ce qui se passe.
+
+Patient : Est-ce que c'est grave, docteur ?
+
+Docteur : Il est encore trop tôt pour le dire, mais nous allons tout faire pour trouver la cause de vos symptômes et vous donner le meilleur traitement possible. Nous allons vous faire passer un test sanguin pour commencer.
+
+Patient : Je vois. J'espère juste que tout ira bien.
+
+Docteur : Ne vous inquiétez pas, nous allons gérer cela ensemble. Nous vous contacterons dès que nous aurons les résultats du test sanguin. En attendant, essayez de vous reposer autant que possible et assurez-vous de manger sainement et de rester hydraté."
+1896,D56,Pas d'équivalence,3,NNNN,3,THALASSEMIE,Thalassémie,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai souvent des douleurs dans les os et je me fatigue très vite.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait plusieurs mois maintenant, mais ça s'aggrave de plus en plus.
+
+Docteur : Avez-vous remarqué d'autres symptômes, comme des problèmes respiratoires ou des douleurs abdominales ?
+
+Patient : Non, rien de tout cela.
+
+Docteur : Bien, je vais vous prescrire des examens sanguins pour voir si tout est normal de ce côté-là. Nous pourrons ensuite discuter des résultats et des options de traitement.
+
+Patient : D'accord, merci docteur. 
+
+Docteur : N'oubliez pas de bien vous reposer et de prendre soin de vous en attendant les résultats. Nous ferons tout notre possible pour trouver la cause de vos symptômes et vous aider à vous sentir mieux."
+1897,D560,2824,0,NOOO,0,ALPHA-THALASSEMIE,Alpha-thalassémie,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai souvent des douleurs dans la poitrine et je me sens fatigué tout le temps.
+
+Docteur : D'accord, pouvez-vous me décrire ces douleurs dans la poitrine ? Sont-elles aiguës ou sourdes ? Où se situent-elles exactement ?
+
+Patient : Elles sont plutôt sourdes et je les ressens au niveau de la cage thoracique.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des maux de tête, des vertiges ou des difficultés à respirer ?
+
+Patient : Oui, j'ai souvent des maux de tête et je me sens étourdi parfois. Quant à la respiration, j'ai l'impression de manquer d'air.
+
+Docteur : D'accord, je vais vous prescrire des examens pour en savoir plus sur votre état de santé. En attendant, essayez de vous reposer et de ne pas trop vous fatiguer.
+
+Patient : Merci docteur, j'espère que vous pourrez m'aider à trouver ce qui ne va pas."
+1898,D561,2824,0,NOOO,0,BETA-THALASSEMIE,Bêta-thalassémie,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai beaucoup de fatigue et je suis souvent essoufflé.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait plusieurs mois maintenant, et ça ne s'améliore pas.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des maux de tête, des douleurs musculaires ou des éruptions cutanées ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Avez-vous des antécédents familiaux de maladies du sang ?
+
+Patient : Oui, en effet, mon père avait aussi des problèmes de santé liés à une maladie du sang.
+
+Docteur : D'accord, je vais vous prescrire un test sanguin pour vérifier certains paramètres.
+
+Patient : Qu'est-ce que cela pourrait être ?
+
+Docteur : Nous devons d'abord effectuer des tests pour pouvoir établir un diagnostic précis. Cependant, il est possible que vos symptômes soient liés à une maladie héréditaire du sang. 
+
+Patient : Je vois. Et cela peut être traité ?
+
+Docteur : Oui, il existe des traitements pour améliorer la qualité de vie des patients atteints de maladies du sang, mais nous devons d'abord établir un diagnostic précis.
+
+Patient : D'accord, merci."
+1899,D562,2824,0,NOOO,0,DELTA-BETA-THALASSEMIE,Delta-bêta-thalassémie,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Le patient s'assoit sur la table d'examen, l'air préoccupé. Le docteur entre dans la pièce et salue le patient.
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: Je ne me sens pas bien. J'ai eu des douleurs thoraciques, de la fatigue et je suis toujours essoufflé.
+
+Docteur: D'accord, c'est inquiétant. Avez-vous remarqué d'autres symptômes?
+
+Patient: J'ai également des douleurs abdominales et j'ai perdu du poids récemment.
+
+Docteur: Très bien, je vais effectuer quelques tests pour déterminer la cause de vos symptômes. Avez-vous des antécédents médicaux?
+
+Patient: Oui, j'ai été diagnostiqué avec une anémie il y a quelques années.
+
+Docteur: Intéressant, cela pourrait être lié à vos symptômes actuels. Nous allons approfondir cela après les tests.
+
+Après quelques tests, le docteur revient avec des résultats.
+
+Docteur: D'après les résultats de vos tests, il semblerait que vous ayez une maladie génétique qui affecte la production de globules rouges. Les globules rouges sont importants pour transporter l'oxygène dans tout le corps, et leur dysfonctionnement peut causer les symptômes que vous avez décrits.
+
+Patient: Que puis-je faire à ce sujet?
+
+Docteur: Nous allons travailler ensemble pour vous proposer un plan de traitement individualisé qui conviendra le mieux à vos besoins. Cela peut inclure des médicaments, une surveillance régulière de vos globules rouges et d'autres recommandations que je vous ferai.
+
+Patient: Merci beaucoup, Doctor. Je suis soulagé de savoir que nous allons trouver une solution ensemble."
+1900,D563,2824,0,NOOO,0,TRAIT THALASSEMIQUE,Trait thalassémique,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai des douleurs dans mes os.
+
+Docteur : D'accord, pouvez-vous me décrire comment vous vous sentez exactement ? Avez-vous d'autres symptômes ?
+
+Patient : Oui, j'ai des maux de tête fréquents et j'ai remarqué que j'ai souvent des infections.
+
+Docteur : Je vois. Avez-vous déjà été diagnostiqué avec une maladie hématologique ou une maladie du sang ?
+
+Patient : Non, je ne pense pas.
+
+Docteur : D'accord, il est possible que vous ayez un trait thalassémique. Cette condition peut causer de la fatigue, des douleurs osseuses, des maux de tête et une susceptibilité accrue aux infections. Il est important de faire quelques tests pour confirmer le diagnostic. 
+
+Patient : Qu'est-ce que c'est exactement ? Est-ce que c'est grave ?
+
+Docteur : Le trait thalassémique est une condition héréditaire dans laquelle le corps ne produit pas suffisamment d'hémoglobine, la protéine dans les globules rouges qui transporte l'oxygène. Cela peut provoquer une anémie légère. Bien que cela ne soit pas considéré comme une condition grave, il est important de surveiller vos symptômes et de prendre des mesures pour les gérer.
+
+Patient : D'accord, que puis-je faire alors ?
+
+Docteur : Nous pouvons vous donner des suppléments de fer pour aider à augmenter votre taux d'hémoglobine. Il est également important de prendre soin de vous, en mangeant une alimentation saine et équilibrée, en faisant de l'exercice régulièrement et en évitant les infections chaque fois que possible.
+
+Patient : D'accord, merci beaucoup pour vos conseils."
+1901,D564,2827,0,NOOO,0,PERSISTANCE HERED. DE L'HEMOGLOBINE FOETALE,Persistance héréditaire de l'hémoglobine foetale [HbF],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne vais pas très bien, j'ai remarqué que je suis très fatigué ces derniers temps et j'ai des douleurs dans les os.
+
+Docteur : Je vois, cela peut être dû à plusieurs raisons. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi des maux de tête fréquents et je me sens souvent essoufflé.
+
+Docteur : D'accord, cela peut être lié à une condition appelée persistance héréditaire de l'hémoglobine foetale. Cela signifie que votre corps continue à produire de l'hémoglobine foetale au lieu de l'hémoglobine adulte, ce qui peut causer ces symptômes.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Cela peut être gênant, mais cela ne met pas votre vie en danger. Nous pouvons travailler ensemble pour gérer vos symptômes et améliorer votre qualité de vie.
+
+Patient : Que pouvons-nous faire pour gérer cela ?
+
+Docteur : Nous pouvons commencer par surveiller votre taux d'hémoglobine et votre taux de fer. Si nécessaire, nous pouvons également vous prescrire des médicaments pour aider à réduire les symptômes. Nous pouvons également discuter de changements de mode de vie, tels que l'augmentation de l'exercice et une alimentation saine.
+
+Patient : Merci, cela me rassure de savoir que nous pouvons travailler ensemble pour gérer cela.
+
+Docteur : Bien sûr, nous sommes ici pour vous aider. N'hésitez pas à me contacter si vous avez d'autres questions ou préoccupations."
+1902,D568,2824,0,NOOO,0,"THALASSEMIES, NCA",Autres thalassémies,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai souvent des douleurs dans la poitrine et je suis très fatigué.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand vous ressentez ces symptômes ?
+
+Patient : Cela fait plusieurs mois maintenant. J'ai aussi remarqué que je suis souvent essoufflé et que j'ai du mal à respirer.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes, comme des maux de tête ou des vertiges ?
+
+Patient : Non, pas vraiment. Mais je me sens souvent faible et j'ai du mal à me concentrer.
+
+Docteur : Très bien. Nous allons devoir faire quelques examens pour déterminer la cause de vos symptômes. En attendant, je vous recommande de vous reposer autant que possible et d'éviter les activités physiques intenses.
+
+Patient : D'accord, merci docteur. J'espère que vous pourrez trouver ce qui ne va pas.
+
+Docteur : Nous allons faire de notre mieux. En attendant, n'hésitez pas à me contacter si vous avez d'autres symptômes ou si vous avez des questions."
+1903,D569,2824,0,NOOO,0,"THALASSEMIE, SAI","Thalassémie, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient : Bonjour Docteur, j'ai remarqué que je me fatiguais rapidement sans raison et que j'étais essoufflé même en faisant des activités simples comme monter les escaliers. Je me sens également faible et j'ai l'impression que mon corps n'arrive pas à produire suffisamment d'énergie.
+
+Docteur : Ces symptômes sont préoccupants. Y a-t-il d'autres troubles que vous avez remarqués?
+
+Patient : J'ai souvent des douleurs dans la poitrine et une peau pâle. J'ai également remarqué que mes ongles et mes lèvres étaient souvent bleues.
+
+Docteur : Ces symptômes sont compatibles avec une maladie sanguine. Nous allons devoir faire des examens pour comprendre d'où vient le problème.
+
+Patient : Est-ce grave Docteur ?
+
+Docteur : Je ne peux pas encore le dire, mais je vous recommande de faire ces examens dès que possible.
+
+Patient : D'accord, je vais organiser cela. Merci Docteur."
+1904,D57,Pas d'équivalence,3,NNNN,3,AFF. A HEMATIES FALCIFORMES,Affections à hématies falciformes [drépanocytaires],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai des douleurs dans les bras et les jambes.
+
+Docteur : Pouvez-vous me dire depuis quand vous ressentez ces douleurs ?
+
+Patient : Cela fait plusieurs jours maintenant, et ça ne s'améliore pas.
+
+Docteur : Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi des maux de tête et je me sens fatigué tout le temps.
+
+Docteur : Je vois. Avez-vous des antécédents médicaux importants ?
+
+Patient : Oui, j'ai été diagnostiqué avec une maladie génétique.
+
+Docteur : Pouvez-vous m'en dire plus sur cette maladie ?
+
+Patient : C'est une maladie qui affecte mes globules rouges, ils ont une forme anormale.
+
+Docteur : Je vois. Ces symptômes que vous décrivez pourraient être liés à cette maladie. Je vais vous prescrire des examens pour en savoir plus.
+
+Patient : Merci docteur. Que puis-je faire pour soulager mes douleurs en attendant les résultats ?
+
+Docteur : Vous pouvez prendre des analgésiques, mais je vous recommande de ne pas trop forcer sur vos muscles et de vous reposer autant que possible.
+
+Patient : Compris, je vais suivre vos conseils. Merci beaucoup."
+1905,D570,28262,0,NOOO,0,ANEMIE A HEMATIES FALCIFORMES AVEC CRISES,Anémie à hématies falciformes [anémie drépanocytaire] avec crises,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai des douleurs dans la poitrine et des difficultés à respirer.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand avez-vous ces symptômes ?
+
+Patient : Ça fait quelques jours que je me sens mal, mais ça s'est aggravé hier soir.
+
+Docteur : Est-ce que vous avez de la fièvre ou des frissons ?
+
+Patient : Non, je n'ai pas de fièvre, mais j'ai des douleurs dans tout le corps, surtout dans les jambes.
+
+Docteur : Avez-vous déjà eu ces symptômes auparavant ?
+
+Patient : Oui, ça m'arrive de temps en temps. Je suis atteint d'une maladie chronique.
+
+Docteur : D'accord, pouvez-vous me dire quelle est cette maladie ?
+
+Patient : Je suis atteint d'une maladie qui affecte mes globules rouges.
+
+Docteur : Je vois. Cette maladie peut causer des douleurs intenses dans les os, des crises douloureuses et des difficultés respiratoires. Il est important que vous preniez soin de vous et que vous évitiez les situations stressantes qui pourraient déclencher une crise.
+
+Patient : D'accord, je ferai attention. Est-ce que vous pouvez me donner quelque chose pour soulager la douleur ?
+
+Docteur : Oui, je vais vous prescrire un médicament pour la douleur. Mais il est important que vous suiviez les instructions de votre traitement et que vous preniez bien soin de vous.
+
+Patient : Merci docteur, je ferai tout ce que je peux pour me sentir mieux."
+1906,D571,28261,0,NOOO,0,ANEMIE A HEMATIES FALCIFORMES,Anémie à hématies falciformes (sans crises),D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur: Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient: Je ne me sens pas très bien. J'ai eu des douleurs dans la poitrine et j'ai du mal à respirer ces derniers temps.
+
+Docteur: D'accord, pouvez-vous me décrire ces douleurs de poitrine ?
+
+Patient: C'est comme une sorte de pression, parfois ça me serre la poitrine.
+
+Docteur: Je vois. Et avez-vous également ressenti de la fatigue ou de la faiblesse ?
+
+Patient: Oui, j'ai été très fatigué ces derniers temps. Je me sens également étourdi parfois.
+
+Docteur: Bien, je vais vous faire passer quelques examens pour voir ce qui se passe. Je soupçonne que cela pourrait être lié à votre condition spécifique, mais je ne peux pas en être sûr avant d'avoir les résultats de ces tests.
+
+Patient: Ma condition spécifique ? De quoi parlez-vous ?
+
+Docteur: Je ne peux pas encore le confirmer, mais votre description des symptômes est cohérente avec ceux qui sont souvent observés chez les personnes atteintes d'une certaine maladie.
+
+Patient: Oh, je vois. Qu'est-ce que cela implique pour moi ?
+
+Docteur: Nous ne pouvons pas encore savoir avec certitude, mais si cela se confirme, cela signifie que votre corps ne produit pas suffisamment de globules rouges sains. Cela peut entraîner une variété de symptômes, y compris la fatigue, la faiblesse et la douleur à la poitrine.
+
+Patient: Est-ce grave ?
+
+Docteur: Cela peut certainement être grave si cela n'est pas traité. Nous allons tout mettre en œuvre pour vous aider à gérer cette condition, si cela s'avère effectivement être le cas.
+
+Patient: D'accord, merci docteur. Que dois-je faire en attendant les résultats des tests ?
+
+Docteur: Essayez de vous reposer autant que possible et évitez de vous mettre en situation de stress. Et si jamais vous ressentez des douleurs intenses ou des difficultés respiratoires, n'hésitez pas à appeler les secours."
+1907,D572,28263,0,NOOO,0,AFF. A HEMATIES FALCIFORMES HETEROZYGOTES DOUBLES,Affections à hématies falciformes [drépanocytaires] hétérozygotes doubles,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas bien. J'ai des douleurs abdominales, une fatigue constante et des difficultés à respirer.
+
+Docteur : D'accord, ces symptômes pourraient être liés à une maladie que vous avez.
+
+Patient : Oh non, c'est grave docteur ?
+
+Docteur : Je ne peux pas encore le dire avec certitude, mais j'aimerais vérifier si vous avez une condition génétique appelée drépanocytose. C'est une maladie qui affecte les globules rouges dans votre corps.
+
+Patient : Je ne sais pas ce que c'est. Est-ce que c'est incurable ?
+
+Docteur : Eh bien, pour l'instant, il n'y a pas de remède définitif, mais il y a divers traitements disponibles qui aident à soulager les symptômes et à prévenir les complications.
+
+Patient : Comment cette maladie est-elle diagnostiquée ?
+
+Docteur : Il y a différentes façons de diagnostiquer la drépanocytose, mais nous allons d'abord effectuer des tests sanguins pour vérifier la forme de vos globules rouges.
+
+Patient : Est-ce que c'est une maladie grave ?
+
+Docteur : La drépanocytose peut causer divers problèmes de santé, tels que des crises de douleur, des infections et une insuffisance d'oxygène dans le corps. C'est pourquoi il est important de la traiter correctement.
+
+Patient : Merci docteur, j'espère que ce n'est pas ça.
+
+Docteur : Nous allons tout mettre en œuvre pour vous aider à vous sentir mieux."
+1908,D573,2825,0,NOOO,0,TRAIT DE LA MAL. DES HEMATIES FALCIFORMES,Trait de la maladie des hématies falciformes [drépanocytaire],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai des douleurs dans tout le corps et je suis très fatigué.
+
+Docteur : D'accord, pouvez-vous me décrire vos douleurs ?
+
+Patient : C'est comme si mes os étaient en train de se briser. J'ai aussi des douleurs dans la poitrine et des difficultés à respirer.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai souvent des maux de tête et des vertiges. Et mes mains et mes pieds sont souvent enflés.
+
+Docteur : Très bien, je vais vous prescrire des examens pour déterminer la cause de vos symptômes. En attendant, essayez de vous reposer autant que possible et de boire beaucoup d'eau.
+
+Patient : D'accord, merci docteur. J'espère que vous pourrez m'aider à me sentir mieux."
+1909,D578,28269,0,NOOO,0,"AFF. A HEMATIES FALCIFORMES, NCA",Autres affections à hématies falciformes [drépanocytaires],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai eu plusieurs crises de douleur dans le bras et les jambes ces derniers temps.
+
+Docteur : Pouvez-vous me décrire la douleur que vous ressentez ?
+
+Patient : C'est une douleur intense et lancinante, ça me fait mal même au repos.
+
+Docteur : Est-ce que cela vous empêche de faire des activités quotidiennes ?
+
+Patient : Oui, je suis souvent fatigué et je manque d'énergie. Je n'ai pas envie de sortir ou de faire des choses.
+
+Docteur : Avez-vous remarqué des changements dans votre peau ou dans vos yeux ?
+
+Patient : Oui, ma peau est plus pâle que d'habitude et mes yeux sont souvent jaunes.
+
+Docteur : Savez-vous si quelqu'un dans votre famille a déjà eu ce genre de symptômes ?
+
+Patient : Oui, mon frère a été diagnostiqué avec une maladie similaire.
+
+Docteur : D'accord, je vais vous prescrire des médicaments pour soulager la douleur et vous envoyer pour des tests sanguins pour mieux comprendre ce qui se passe. Nous allons travailler ensemble pour trouver un traitement qui vous aidera à vous sentir mieux."
+1910,D58,Pas d'équivalence,3,NNNN,3,"ANEMIES HEMOLYTIQUES HERED., NCA",Autres anémies hémolytiques héréditaires,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient: Docteur, je suis très fatigué ces derniers temps et j'ai des douleurs dans tout le corps.
+
+Docteur: Pouvez-vous me décrire vos douleurs?
+
+Patient: J'ai des douleurs musculaires et articulaires, ainsi que des maux de tête fréquents.
+
+Docteur: Avez-vous remarqué une jaunisse ou une pâleur de la peau?
+
+Patient: Oui, j'ai remarqué que ma peau est plus pâle que d'habitude.
+
+Docteur: Avez-vous des antécédents familiaux de problèmes sanguins?
+
+Patient: Oui, mon frère a une maladie similaire.
+
+Docteur: Je vais vous faire passer des tests sanguins pour vérifier si vous avez une anémie hémolytique héréditaire. Cette maladie peut causer une destruction des globules rouges, ce qui peut entraîner une fatigue intense et des douleurs musculaires.
+
+Patient: Est-ce que cette maladie est traitable?
+
+Docteur: Oui, il existe des traitements pour gérer les symptômes et améliorer la qualité de vie. Nous devrons travailler ensemble pour trouver le meilleur traitement pour vous."
+1911,D580,2820,0,NOOO,0,SPHEROCYTOSE HERED.,Sphérocytose héréditaire,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Je me sens fatigué tout le temps, même si je dors bien la nuit. J'ai remarqué que ma peau avait une couleur jaunâtre et mes urines sont plus foncées que d'habitude. De plus, j'ai des douleurs abdominales.
+
+Docteur : D'accord, je comprends. Avez-vous remarqué des changements dans votre vision ou des étourdissements récents ?
+
+Patient : Oui, j'ai eu des étourdissements dernièrement.
+
+Docteur : Bien, je pense qu'il est important que nous fassions des tests pour déterminer ce qui pourrait causer ces symptômes. Nous devrons prélever du sang pour des analyses. Vous pourriez avoir une maladie héréditaire rare qui affecte vos globules rouges.
+
+Patient : Qu'est-ce que cela signifie ?
+
+Docteur : Nous devons faire des tests pour être sûr, mais ce type de maladie rend vos globules rouges plus fragiles et ils se cassent plus facilement, ce qui peut causer la jaunisse et les douleurs abdominales. Nous pourrons discuter des options de traitement une fois que nous aurons les résultats des tests.
+
+Patient : D'accord, merci docteur. Je suis heureux que nous soyons en train de chercher la cause de mes symptômes."
+1912,D581,2821,0,NOOO,0,ELLIPTOCYTOSE HERED.,Elliptocytose héréditaire,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne vais pas très bien. J'ai remarqué que mes globules rouges ont une forme étrange et que je me sens fatigué tout le temps.
+
+Docteur : D'accord, pouvez-vous me décrire cette forme étrange de vos globules rouges ?
+
+Patient : Ils ont une forme ovale ou elliptique plutôt que ronde comme ils devraient l'être.
+
+Docteur : Très bien. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai souvent des douleurs abdominales et des maux de tête.
+
+Docteur : Cela peut être lié à la forme anormale de vos globules rouges. Cette condition peut également causer une anémie, ce qui expliquerait votre fatigue.
+
+Patient : Est-ce que cette condition est grave ?
+
+Docteur : Cela dépend de la gravité de la condition. Nous devons faire des tests pour déterminer la cause de vos symptômes et la gravité de la condition.
+
+Patient : Quels tests devons-nous faire ?
+
+Docteur : Nous devons faire une analyse de sang pour voir la forme de vos globules rouges et vérifier votre taux d'hémoglobine. Nous pourrions également faire une échographie pour vérifier la taille de votre rate.
+
+Patient : Et si c'est grave, que se passera-t-il ?
+
+Docteur : Si c'est grave, nous pouvons envisager un traitement pour aider à contrôler les symptômes et prévenir les complications. Mais nous devons attendre les résultats des tests pour déterminer le meilleur plan de traitement.
+
+Patient : D'accord, je comprends. Merci, docteur."
+1913,D582,2827,0,NOOO,0,"HEMOGLOBINOPATHIES, NCA",Autres hémoglobinopathies,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous?
+
+Patient : Je ne me sens pas très bien en ce moment, docteur. Je suis fatigué tout le temps et j'ai souvent des douleurs à la poitrine.
+
+Docteur : Je vois. Pouvez-vous me parler un peu plus de ces douleurs à la poitrine?
+
+Patient : Eh bien, elles sont assez intenses. C'est comme si j'avais un étau qui serrait ma poitrine. Ça me fait mal quand je respire profondément ou quand je fais un effort physique.
+
+Docteur : D'accord, et en ce qui concerne la fatigue, quand ressentez-vous cela?
+
+Patient : Tout le temps, docteur. Même après une bonne nuit de sommeil, je me sens épuisé.
+
+Docteur : Très bien. Je vais devoir vous faire passer quelques examens pour pouvoir établir un diagnostic. Il est possible que vous souffriez d'une maladie génétique appelée hémoglobinopathies.
+
+Patient : Hémoglobinopathies ? Je n'ai jamais entendu parler de cette maladie. Qu'est-ce que c'est ?
+
+Docteur : C'est une maladie génétique qui affecte la production de l'hémoglobine, le composant principal des globules rouges dans le sang. Les symptômes que vous décrivez pourraient être liés à cette maladie. Mais il est nécessaire de faire plus de tests pour être sûr.
+
+Patient : Compris, merci docteur. Je vais faire les examens tout de suite."
+1914,D588,2828,0,NOOO,0,"ANEMIES HEMOLYTIQUES HERED. PREC., NCA",Autres anémies hémolytiques héréditaires précisées,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. J'ai remarqué que je suis très fatigué ces derniers temps, même après avoir bien dormi. J'ai aussi remarqué que ma peau est plus pâle que d'habitude.
+
+Docteur : D'accord, je comprends. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également des douleurs abdominales et des maux de tête fréquents.
+
+Docteur : D'accord, cela peut être lié à une anémie. Nous allons faire des tests pour déterminer la cause de vos symptômes.
+
+Patient : Qu'est-ce que cela signifie, une anémie ?
+
+Docteur : L'anémie est une condition où il y a une diminution du nombre de globules rouges dans le sang. Cela peut causer de la fatigue, de la pâleur et d'autres symptômes que vous avez mentionnés.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Cela dépend de la cause de l'anémie. Nous devons faire des tests pour déterminer la cause et le traitement approprié.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Nous allons vous faire des tests sanguins pour déterminer le nombre de globules rouges dans votre sang et leur forme. Nous pourrons alors mieux comprendre ce qui se passe et vous donner un traitement approprié.
+
+Patient : D'accord, merci docteur."
+1915,D589,2829,0,NOOO,0,"ANEMIE HEMOLYTIQUE HERED., SAI","Anémie hémolytique héréditaire, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai remarqué que ma peau est plus pâle que d'habitude.
+
+Docteur : D'accord, je comprends. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également eu des maux de tête et des douleurs abdominales.
+
+Docteur : D'accord, cela peut être lié à plusieurs choses. Nous allons devoir faire des tests pour en savoir plus. Avez-vous des antécédents médicaux ou des maladies héréditaires dans votre famille ?
+
+Patient : Oui, mon frère a une maladie du sang.
+
+Docteur : D'accord, cela peut être une piste. Nous allons faire des tests pour vérifier cela. En attendant, il est important que vous vous reposiez et que vous mangiez des aliments riches en fer.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Nous vous contacterons dès que nous aurons les résultats des tests. En attendant, si vous ressentez une douleur intense ou si vous avez des difficultés à respirer, n'hésitez pas à appeler une ambulance."
+1916,D59,Pas d'équivalence,3,NNNN,3,ANEMIE HEMOLYTIQUE ACQUISE,Anémie hémolytique acquise,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. J'ai remarqué que je suis très fatigué ces derniers temps, même si je dors suffisamment. J'ai également l'impression que mon souffle est court et que je suis essoufflé plus facilement que d'habitude.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également noté que j'ai des douleurs abdominales et des nausées.
+
+Docteur : D'accord, ces symptômes peuvent être le signe de plusieurs maladies. Cependant, je vais devoir vous faire passer des tests pour que nous puissions déterminer ce qui ne va pas. Nous allons faire des analyses de sang et une échographie de l'abdomen.
+
+Patient : D'accord, je suis prêt à faire tout ce qu'il faut pour savoir ce qui ne va pas.
+
+Docteur : Très bien. Je vais vous prescrire les examens nécessaires et nous nous reverrons dès que nous aurons les résultats. En attendant, reposez-vous autant que possible et buvez suffisamment d'eau.
+
+Patient : Merci, docteur. J'espère que nous pourrons bientôt trouver ce qui ne va pas chez moi."
+1917,D590,2830,0,NOOO,0,"ANEMIE HEMOLYTIQUE AUTO-IMMUNE, DUE A DES MEDICAM.","Anémie hémolytique auto-immune, due à des médicaments",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai des douleurs abdominales.
+
+Docteur : Je vois. Depuis quand ressentez-vous ces symptômes ?
+
+Patient : Cela fait environ deux semaines.
+
+Docteur : Avez-vous pris des médicaments récemment ?
+
+Patient : Oui, j'ai pris des antibiotiques pour une infection.
+
+Docteur : C'est peut-être lié à cela. Il est possible que vous ayez une réaction à ces médicaments. Cela peut causer une anémie hémolytique auto-immune, qui peut entraîner une fatigue et des douleurs abdominales.
+
+Patient : Qu'est-ce que cela signifie ?
+
+Docteur : Cela signifie que votre corps attaque les globules rouges, ce qui peut causer une anémie. Nous devons faire des tests pour confirmer le diagnostic.
+
+Patient : Est-ce grave ?
+
+Docteur : Cela peut être grave, mais si nous le traitons rapidement, vous devriez vous rétablir complètement.
+
+Patient : Quel est le traitement ?
+
+Docteur : Nous devons d'abord arrêter les médicaments qui ont causé la réaction. Ensuite, nous pouvons vous donner des médicaments pour aider à réduire l'inflammation et stimuler la production de globules rouges.
+
+Patient : Merci, docteur. Je suis soulagé de savoir ce qui ne va pas et d'avoir un plan de traitement."
+1918,D591,2830,0,NOOO,0,"ANEMIES HEMOLYTIQUES AUTO-IMMUNES, NCA",Autres anémies hémolytiques auto-immunes,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps, j'ai des maux de tête et je me sens faible.
+
+Docteur : Avez-vous remarqué d'autres symptômes ? Comme des douleurs abdominales ou des douleurs articulaires ?
+
+Patient : Non, pas vraiment. Mais je suis sûr que quelque chose ne va pas. Je suis fatigué même après avoir dormi toute la nuit, et je me sens souvent étourdi.
+
+Docteur : Je vois. Eh bien, il y a plusieurs raisons pour lesquelles vous pourriez vous sentir ainsi. Nous allons devoir faire quelques tests pour déterminer ce qui se passe.
+
+Patient : D'accord, merci docteur. J'espère que vous pourrez m'aider à trouver ce qui ne va pas.
+
+Docteur : Nous allons faire de notre mieux. Dans l'intervalle, essayez de vous reposer autant que possible et de manger une alimentation saine et équilibrée. Nous vous contacterons dès que nous aurons des résultats."
+1919,D592,28319,0,NOOO,0,"ANEMIE HEMOLYTIQUE NON AUTO-IMMUNE, DUE A DES MEDICAM.","Anémie hémolytique non auto-immune, due à des médicaments",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui?
+
+Patient : Bonjour docteur, je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai l'impression que je manque d'énergie. Je suis également très essoufflé quand je fais des activités physiques légères.
+
+Docteur : D'accord, avez-vous remarqué si vos urines étaient plus foncées que d'habitude?
+
+Patient : Oui, en effet. Je pensais que c'était dû à la déshydratation.
+
+Docteur : C'est peut-être un signe d'anémie. Avez-vous remarqué des jaunissements de votre peau ou de vos yeux?
+
+Patient : Oui, j'ai remarqué que mes yeux étaient un peu jaunes.
+
+Docteur : Tout cela est très préoccupant. Avez-vous pris récemment des médicaments ou des suppléments?
+
+Patient : Oui, j'ai pris des antibiotiques il y a quelques semaines.
+
+Docteur : Il est possible que vous ayez développé une anémie hémolytique non auto-immune due à ces médicaments. Je vais vous prescrire des tests pour confirmer le diagnostic. En attendant, il est important que vous arrêtiez de prendre ces antibiotiques.
+
+Patient : Merci, docteur. Je suis soulagé de savoir ce qui se passe et je vais suivre vos conseils."
+1920,D593,28311,0,NOOO,0,SYND. HEMOLYTIQUE UREMIQUE,Syndrome hémolytique urémique,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur: Bonjour, comment allez-vous?
+
+Patient: Je ne me sens pas bien. J'ai des maux de tête, des nausées et je me sens très fatigué.
+
+Docteur: D'accord. Avez-vous remarqué si vous avez des douleurs abdominales ou des selles sanglantes?
+
+Patient: Oui, j'ai des douleurs abdominales et j'ai remarqué du sang dans mes selles.
+
+Docteur: Très bien. Nous allons devoir réaliser quelques tests pour déterminer la cause de vos symptômes. Il est possible que vous ayez une infection ou une inflammation dans votre système digestif. Nous allons également vérifier votre taux de globules rouges pour voir si vous avez une anémie.
+
+Patient: D'accord, merci docteur.
+
+Docteur: De rien. Nous allons vous prendre en charge rapidement pour trouver la cause de vos symptômes afin de vous aider à vous sentir mieux."
+1921,D594,28319,0,NOOO,0,"ANEMIES HEMOLYTIQUES NON AUTO-IMMUNES, NCA",Autres anémies hémolytiques non auto-immunes,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: Pas très bien, docteur. J'ai remarqué que je me fatigue très vite ces derniers temps, même en faisant des tâches simples. Et mes muscles commencent à me faire mal.
+
+Docteur: Je comprends. Avez-vous également remarqué une jaunisse ou une pâleur de la peau?
+
+Patient: Oui, j'ai remarqué que ma peau était un peu jaunâtre, surtout autour de mes yeux.
+
+Docteur: D'accord. Ces symptômes peuvent indiquer qu'il y a un problème avec votre système sanguin. Nous devrions faire des tests pour vérifier si vous avez une anémie.
+
+Patient: Qu'est-ce que c'est que l'anémie?
+
+Docteur: L'anémie est une condition dans laquelle votre corps ne produit pas suffisamment de globules rouges sains. Les globules rouges sont responsables du transport de l'oxygène dans votre corps, donc si vous en avez pas suffisamment, vous pouvez vous sentir fatigué et avoir des douleurs musculaires. 
+
+Patient: Oh, je vois. Est-ce que c'est grave?
+
+Docteur: Cela dépend de la cause de l'anémie. Nous devrons faire des tests pour déterminer la cause fondamentale de votre anémie et décider du meilleur plan de traitement. Mais ne vous inquiétez pas, nous allons prendre soin de vous."
+1922,D595,2832,0,NOOO,0,HEMOGLOBINURIE NOCTURNE PAROXYSTIQUE,Hémoglobinurie nocturne paroxystique [Marchiafava-Micheli],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous ?
+
+Patient : Bonjour, je ne me sens pas très bien ces derniers temps. J'ai remarqué que j'ai souvent des douleurs abdominales et j'ai remarqué que mes urines sont devenues très foncées. Cela m'inquiète beaucoup.
+
+Docteur : Je comprends. Est-ce que vous avez remarqué si ces symptômes se manifestent à certaines heures de la journée ou de la nuit ?
+
+Patient : Oui, en fait, j'ai remarqué que mes urines sont plus foncées le matin, lorsque je me lève. Et je ressens souvent des douleurs abdominales la nuit.
+
+Docteur : Très bien, cela pourrait être lié à une maladie rare appelée hémoglobinurie nocturne paroxystique. Cela se produit lorsque les globules rouges se décomposent plus rapidement que la normale, ce qui peut causer des douleurs abdominales et des urines foncées. Nous allons faire des tests pour confirmer le diagnostic et mettre en place un traitement adapté.
+
+Patient : D'accord, merci beaucoup docteur. J'espère que cela peut être traité rapidement."
+1923,D596,2832,0,NOOO,0,HEMOGLOBINURIE DUE A UNE HEMOLYSE RELEVANT D'AUTRES CAUSES EXT.,Hémoglobinurie due à une hémolyse relevant d'autres causes externes,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Bonjour, je ne me sens pas très bien. J'ai remarqué que mes urines étaient devenues très foncées et j'ai ressenti une douleur dans le dos.
+
+Docteur : Oh, je vois. Est-ce que vous avez remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi l'impression d'être fatigué et essoufflé plus facilement que d'habitude.
+
+Docteur : D'accord, merci pour ces informations. Nous allons faire quelques tests pour déterminer ce qui se passe. En attendant, il est important que vous restiez hydraté et que vous évitiez les activités physiques intenses.
+
+Patient : D'accord, merci docteur. Est-ce que c'est grave ?
+
+Docteur : Nous ne pouvons pas encore le dire. Mais il est important que nous trouvions la cause de ces symptômes pour pouvoir traiter efficacement la situation.
+
+Patient : D'accord, je comprends. Merci beaucoup, docteur.
+
+Docteur : Il n'y a pas de quoi. Nous allons faire de notre mieux pour vous aider à vous sentir mieux."
+1924,D598,2839,0,NOOO,0,"ANEMIES HEMOLYTIQUES ACQUISES, NCA",Autres anémies hémolytiques acquises,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Bonjour, je ne me sens pas bien en ce moment. J'ai des douleurs intenses à l'estomac et je suis très fatigué.
+
+Docteur : Je vois. Avez-vous d'autres symptômes ?
+
+Patient : Oui, j'ai remarqué que ma peau est plus pâle que d'habitude et j'ai l'impression que mon cœur bat plus vite que d'habitude.
+
+Docteur : Je comprends. Ces symptômes peuvent être liés à une anémie hémolytique acquise, qui est une affection caractérisée par une destruction accélérée des globules rouges dans votre corps. Nous pouvons faire des tests pour en savoir plus.
+
+Patient : Est-ce que c'est grave ? Quel traitement sera nécessaire ?
+
+Docteur : Chaque cas est différent, mais nous travaillerons ensemble pour trouver la meilleure solution pour vous. Si nous découvrons que vous souffrez d'une anémie hémolytique acquise, nous pouvons discuter des médicaments appropriés et des modifications de style de vie qui peuvent aider à soulager vos symptômes.
+
+Patient : Merci, docteur. Je suis impatient de savoir ce qui ne va pas avec moi et de commencer le traitement.
+
+Docteur : Bien sûr, nous allons faire tout ce que nous pouvons pour vous aider. Nous allons prendre des échantillons de sang aujourd'hui pour des tests et planifier un suivi avec vous."
+1925,D599,2839,0,NOOO,0,"ANEMIE HEMOLYTIQUE ACQUISE, SAI","Anémie hémolytique acquise, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous?
+
+Patient : Bonjour docteur, je ne me sens pas très bien ces derniers temps. Je suis fatigué tout le temps et j'ai remarqué que ma peau est plus jaune que d'habitude.
+
+Docteur : D'accord, avez-vous remarqué d'autres symptômes?
+
+Patient : Oui, j'ai eu des douleurs abdominales et j'ai remarqué que mes urines étaient plus foncées que d'habitude.
+
+Docteur : Je vois. Ces symptômes peuvent être liés à plusieurs maladies. Nous allons devoir faire des examens pour déterminer la cause exacte de vos symptômes.
+
+Patient : D'accord, je suis prêt à faire tout ce qu'il faut pour me sentir mieux.
+
+Docteur : Très bien. Nous allons commencer par une prise de sang pour vérifier votre taux d'hémoglobine et votre taux de bilirubine. Nous pourrons également faire une échographie pour vérifier l'état de vos organes.
+
+Patient : D'accord, je comprends. Qu'est-ce que cela pourrait être?
+
+Docteur : Je ne peux pas encore vous donner un diagnostic précis, mais il est possible que vous souffriez d'une maladie qui affecte la production de globules rouges ou qui provoque leur destruction prématurée. Nous devons faire des examens pour en savoir plus.
+
+Patient : D'accord, merci docteur. Je suis un peu inquiet, mais je suis content que nous puissions trouver ce qui ne va pas.
+
+Docteur : Ne vous inquiétez pas, nous allons tout faire pour vous aider à vous sentir mieux. Nous allons commencer par ces examens et nous verrons ensuite quelle est la meilleure façon de traiter vos symptômes."
+1926,D60,Pas d'équivalence,3,NNNN,3,APLASIE MÉDULLAIRE ACQUISE PURE DES GLOBULES ROUGES,Aplasie médullaire acquise pure des globules rouges  [érythroblastopénie],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. Je suis fatigué tout le temps et j'ai du mal à me concentrer.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait environ deux semaines maintenant.
+
+Docteur : Avez-vous remarqué d'autres changements dans votre corps, comme une perte de poids ou des douleurs ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Je vais vous faire passer quelques tests pour voir ce qui se passe. Nous allons vérifier votre taux de globules rouges et votre taux de fer.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Il est possible que vous ayez une carence en fer ou une autre maladie qui affecte votre production de globules rouges. Nous devons en savoir plus pour pouvoir vous aider.
+
+Patient : Compris, je suis prêt à faire tout ce qu'il faut pour me sentir mieux.
+
+Docteur : Très bien, nous allons commencer par une prise de sang et nous verrons ensuite ce que les résultats montrent. Nous trouverons une solution ensemble."
+1927,D600,2848,0,NOOO,0,"APLASIE MÉDULLAIRE ACQUISE PURE DES GLOBULES ROUGES, CHRONIQUE","Aplasie médullaire acquise pure des globules rouges, chronique",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai remarqué que j'ai des ecchymoses plus facilement qu'avant.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Je dirais que ça fait environ deux mois maintenant.
+
+Docteur : Avez-vous remarqué d'autres changements dans votre corps, comme des douleurs ou des saignements ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Bien, je vais devoir vous faire passer quelques examens pour déterminer ce qui se passe. Il est possible que vous ayez une maladie qui affecte votre production de globules rouges.
+
+Patient : Oh, je vois. Est-ce que c'est grave ?
+
+Docteur : Je ne peux pas encore vous dire, mais nous allons faire tout notre possible pour trouver la cause de vos symptômes et vous proposer un traitement approprié.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Je vais vous prescrire des analyses de sang et une échographie pour commencer. Nous pourrons ensuite discuter des résultats et de la suite des événements.
+
+Patient : Très bien, je vais prendre rendez-vous pour les examens dès que possible.
+
+Docteur : Parfait, n'hésitez pas à me contacter si vous avez des questions ou des préoccupations.
+
+Patient : Merci beaucoup, docteur."
+1928,D601,2848,0,NOOO,0,APLASIE MÉDULLAIRE ACQUISE PURE DES GLOBULES ROUGES TRANSITOIRE,Aplasie médullaire acquise pure des globules rouges transitoire,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. J'ai remarqué que je suis très fatigué ces derniers temps et que je manque d'énergie.
+
+Docteur : D'accord, pouvez-vous m'en dire un peu plus sur vos symptômes ?
+
+Patient : Eh bien, je me sens souvent fatigué et j'ai du mal à me concentrer. J'ai aussi remarqué que j'ai des vertiges et des étourdissements.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes, comme des douleurs ou des saignements ?
+
+Patient : Non, je n'ai pas remarqué de douleurs particulières, mais j'ai remarqué que j'ai des bleus plus facilement qu'avant.
+
+Docteur : D'accord, je vais vous prescrire des examens sanguins pour voir si tout va bien. Nous pourrons ainsi déterminer si vous avez une carence en fer ou une autre maladie.
+
+Patient : D'accord, merci docteur. J'espère que ce n'est rien de grave.
+
+Docteur : Nous allons faire de notre mieux pour trouver la cause de vos symptômes et vous aider à vous sentir mieux."
+1929,D608,2848,0,NOOO,0,AUTRES APLASIES MÉDULLAIRES ACQUISES PURES DES GLOBULES ROUGES,Autres aplasies médullaires acquises pures des globules rouges,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai remarqué que je suis très fatigué et j'ai du mal à me concentrer.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait environ deux semaines maintenant.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des étourdissements ou des vertiges ?
+
+Patient : Oui, j'ai eu quelques épisodes d'étourdissements ces derniers jours.
+
+Docteur : Avez-vous remarqué des changements dans la couleur de votre peau ou de vos yeux ?
+
+Patient : Non, je ne pense pas.
+
+Docteur : Je vais vous prescrire des analyses de sang pour vérifier si tout va bien. Il est possible que vous ayez une carence en fer ou une autre condition qui pourrait expliquer vos symptômes.
+
+Patient : D'accord, merci docteur. J'espère que ce n'est rien de grave.
+
+Docteur : Nous allons faire tout notre possible pour trouver la cause de vos symptômes et vous aider à vous sentir mieux."
+1930,D609,2848,0,NOOO,0,"APLASIE MÉDULLAIRE ACQUISE PURE DES GLOBULES ROUGES, SAI","Aplasie médullaire acquise pure des globules rouges, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui?
+
+Patient : Je me sens très fatigué tout le temps et j'ai remarqué que j'ai de plus en plus de difficultés à respirer. Je ressens aussi des vertiges et j'ai des saignements de nez fréquents.
+
+Docteur : Hmm, cela semble préoccupant. Avez-vous remarqué un changement de couleur de votre peau ou de vos yeux récemment?
+
+Patient : Non, pas vraiment.
+
+Docteur : Bien, je vais devoir vous faire passer quelques examens pour déterminer la cause de ces symptômes. Il est possible que vous souffriez d'une maladie de la moelle osseuse, mais je ne peux pas encore en être certain.
+
+Patient : Oh, d'accord. Qu'est-ce que cela signifie exactement?
+
+Docteur : Eh bien, la moelle osseuse est responsable de la production de globules rouges dans le corps. Si elle ne fonctionne pas correctement, cela peut causer une anémie et d'autres symptômes. Nous devons donc faire des tests pour voir si c'est le cas pour vous.
+
+Patient : D'accord, je comprends. Et est-ce que ce genre de problème est traitable?
+
+Docteur : Oui, il existe des traitements pour aider à stimuler la production de globules rouges dans le corps. Nous devons d'abord déterminer la cause exacte de votre condition avant de pouvoir élaborer un plan de traitement.
+
+Patient : Très bien, merci docteur. Je suis prêt à faire tous les tests nécessaires pour savoir ce qui ne va pas.
+
+Docteur : Parfait, nous allons travailler ensemble pour trouver une solution à vos problèmes de santé."
+1931,D61,Pas d'équivalence,3,NNNN,3,AUTRES APLASIES MÉDULLAIRES,Autres aplasies médullaires,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué que je suis très fatigué ces derniers temps et j'ai des ecchymoses sur ma peau sans raison apparente.
+
+Docteur : D'accord, je comprends. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également eu des saignements de nez fréquents et j'ai remarqué que mes gencives saignent facilement lorsque je me brosse les dents.
+
+Docteur : Je vois. Ces symptômes peuvent être liés à une maladie appelée aplasie médullaire. Cela signifie que votre moelle osseuse ne produit pas suffisamment de cellules sanguines, ce qui peut causer une fatigue extrême, des ecchymoses et des saignements.
+
+Patient : Oh non, cela semble grave. Que pouvons-nous faire pour traiter cela ?
+
+Docteur : Nous devrons effectuer des tests pour confirmer le diagnostic, mais il existe plusieurs options de traitement, notamment des transfusions sanguines et des greffes de moelle osseuse. Nous travaillerons ensemble pour trouver le meilleur plan de traitement pour vous.
+
+Patient : Merci, docteur. Je suis soulagé de savoir que nous pouvons faire quelque chose pour traiter cela."
+1932,D610,2840,0,NOOO,0,APLASIE MÉDULLAIRE CONSTITUTIONNELLE,Aplasie médullaire constitutionnelle,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué que je suis très fatigué ces derniers temps et que je suis facilement essoufflé même après une petite marche.
+
+Docteur : Hmm, je vois. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également eu des saignements de nez fréquents et j'ai eu des ecchymoses très facilement.
+
+Docteur : D'accord. Avez-vous remarqué des douleurs ou des picotements dans vos mains ou vos pieds ?
+
+Patient : Maintenant que vous le mentionnez, j'ai eu des picotements dans mes mains et mes pieds ces derniers temps.
+
+Docteur : Très bien, je vais demander des tests sanguins pour évaluer votre état. Nous devrons peut-être également faire des tests pour évaluer votre moelle osseuse.
+
+Patient : D'accord, merci docteur. Pouvez-vous me dire ce que vous pensez que cela pourrait être ?
+
+Docteur : Je ne veux pas spéculer avant d'avoir les résultats de vos tests, mais il est possible que vous ayez une condition qui affecte votre production de cellules sanguines.
+
+Patient : Oh, je vois. Cela peut-il être grave ?
+
+Docteur : Cela dépend de la condition. Nous devrons attendre les résultats de vos tests pour en savoir plus.
+
+Patient : D'accord, merci docteur. Je vais prendre les tests et voir ce qui en ressort.
+
+Docteur : Très bien, nous vous contacterons dès que nous aurons les résultats. En attendant, reposez-vous bien et prenez soin de vous."
+1933,D611,2848,0,NOOO,0,APLASIE MÉDULLAIRE D'ORIGINE MÉDICAMENTEUSE,Aplasie  médullaire d'origine médicamenteuse,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas très bien, je suis très fatigué et j'ai des ecchymoses partout sur le corps.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez ces symptômes ?
+
+Patient : Cela fait environ deux semaines.
+
+Docteur : Et avez-vous remarqué d'autres symptômes, comme des saignements de nez ou des douleurs dans les os ?
+
+Patient : Oui, j'ai eu un saignement de nez hier et j'ai des douleurs dans les os depuis quelques jours.
+
+Docteur : Très bien, je vais vous prescrire des analyses de sang pour vérifier si tout va bien au niveau de votre moelle osseuse.
+
+Patient : D'accord, mais qu'est-ce que cela peut être ?
+
+Docteur : Il est possible que vous souffriez d'une maladie qui affecte votre moelle osseuse et qui peut causer des symptômes comme ceux que vous avez décrits. Nous devons faire des analyses pour en savoir plus.
+
+Patient : Oh non, cela semble grave...
+
+Docteur : Ne vous inquiétez pas, nous allons faire tout notre possible pour vous aider. Il est important de trouver la cause de vos symptômes pour pouvoir vous traiter correctement.
+
+Patient : D'accord, merci docteur."
+1934,D612,2848,0,NOOO,0,APLASIE MÉDULLAIRE DUE À D'AUTRES AGENTS EXTERNES,Aplasie  médullaire due à d'autres agents externes,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué que je suis facilement fatigué et j'ai des ecchymoses sur mon corps sans raison apparente.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également eu des saignements de nez fréquents et j'ai eu des difficultés à respirer récemment.
+
+Docteur : D'accord, je vais devoir vous faire passer quelques tests pour déterminer ce qui se passe. Il est possible que vous ayez une maladie qui affecte votre moelle osseuse.
+
+Patient : Qu'est-ce que cela signifie ?
+
+Docteur : Cela signifie que votre corps pourrait ne pas produire suffisamment de cellules sanguines, ce qui peut causer des symptômes tels que la fatigue et les ecchymoses. Nous devons faire des tests pour confirmer cela.
+
+Patient : D'accord, je comprends. Que pouvons-nous faire pour traiter cela ?
+
+Docteur : Nous devrons d'abord déterminer la cause de votre maladie. Si cela est dû à une exposition à des agents externes, nous devrons éliminer cette exposition et traiter les symptômes. Si cela est dû à une maladie sous-jacente, nous devrons traiter cette maladie.
+
+Patient : D'accord, merci docteur. Je suis prêt à faire tout ce qu'il faut pour me sentir mieux."
+1935,D613,2849,0,NOOO,0,APLASIE MÉDULLAIRE IDIOPATHIQUE,Aplasie  médullaire idiopathique,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient : Bonjour docteur, je suis venu vous voir car je ressens une grande fatigue ces derniers temps. Je suis souvent essoufflé et j'ai des vertiges. Je suis inquiet car je n'arrive pas à comprendre ce qui m'arrive.
+
+Docteur : Bien, pouvez-vous me décrire vos symptômes plus en détail ? Avez-vous remarqué une perte de poids ou une pâleur de votre peau ?
+
+Patient : Oui, en effet, j'ai perdu quelques kilos et je me trouve plus pâle qu'avant. Et il m'arrive d'avoir des douleurs dans les os.
+
+Docteur : D'accord, je vais vous prescrire des examens pour déterminer ce qui se passe dans votre organisme. Il est possible que vous souffriez d'une maladie qui affecte la production de vos cellules sanguines. Nous devons faire des analyses pour en avoir le cœur net.
+
+Patient : Oh, je vois. Est-ce que ce genre de maladie est grave ?
+
+Docteur : Il est important de trouver la cause de vos symptômes pour pouvoir vous donner une réponse précise. Mais il est vrai que certaines maladies qui affectent la production des cellules sanguines peuvent être graves.
+
+Patient : Je comprends. Merci docteur, je vais suivre vos recommandations et faire les examens nécessaires."
+1936,D618,2848,0,NOOO,0,AUTRES APLASIES MÉDULLAIRES PRÉCISÉES,Autres aplasies médullaires précisées,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué que je suis très fatigué ces derniers temps et j'ai des ecchymoses qui apparaissent facilement sur ma peau.
+
+Docteur : D'accord, cela peut être un signe de problèmes de moelle osseuse. Avez-vous remarqué d'autres symptômes tels que des saignements de nez ou des infections fréquentes ?
+
+Patient : Oui, j'ai eu quelques saignements de nez et j'ai eu une infection des sinus il y a quelques semaines.
+
+Docteur : Je vois. Il est possible que vous ayez une aplasie médullaire, ce qui signifie que votre moelle osseuse ne produit pas suffisamment de cellules sanguines. Nous devrons effectuer des tests pour confirmer le diagnostic.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Cela peut être très grave si cela n'est pas traité. Nous devrons surveiller de près votre état et peut-être envisager des traitements tels que des transfusions sanguines ou une greffe de moelle osseuse.
+
+Patient : Je comprends. Que puis-je faire pour aider à traiter cela ?
+
+Docteur : Il est important que vous preniez soin de vous en mangeant sainement, en faisant de l'exercice et en évitant les infections. Nous devrons également surveiller votre état de près et vous faire passer des tests réguliers pour nous assurer que vous recevez le traitement approprié.
+
+Patient : D'accord, je ferai tout ce que je peux pour aider à traiter cela.
+
+Docteur : Très bien, nous allons commencer par des tests pour confirmer le diagnostic et élaborer un plan de traitement. Nous sommes là pour vous aider à traverser cela."
+1937,D619,2849,0,NOOO,0,"APLASIE MÉDULLAIRE, SAI","Aplasie  médullaire, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Bonjour Docteur, je ne me sens pas très bien. J'ai remarqué que je suis très fatigué ces derniers temps et j'ai des douleurs dans les os.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand vous ressentez ces symptômes ?
+
+Patient : Je dirais que ça fait environ un mois maintenant.
+
+Docteur : Avez-vous remarqué une perte d'appétit ou une perte de poids récemment ?
+
+Patient : Oui, je n'ai pas vraiment envie de manger et j'ai perdu quelques kilos.
+
+Docteur : Très bien. Nous allons faire quelques examens pour voir ce qui se passe. Nous allons faire une prise de sang pour vérifier votre taux de globules rouges et blancs, ainsi qu'une radiographie pour voir si nous pouvons détecter quelque chose d'anormal dans vos os.
+
+Patient : D'accord, merci Docteur.
+
+Docteur : Nous vous contacterons dès que nous aurons les résultats. En attendant, essayez de vous reposer et de prendre soin de vous.
+
+Patient : D'accord, merci beaucoup."
+1938,D62,2851,0,NOOO,0,ANEMIE POSTHEMORRAGIQUE AIG.,Anémie posthémorragique aiguë,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai des vertiges.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand vous ressentez ces symptômes ?
+
+Patient : Depuis quelques semaines maintenant.
+
+Docteur : Avez-vous remarqué si vous avez perdu du sang récemment ?
+
+Patient : Oui, j'ai eu une hémorragie il y a environ un mois.
+
+Docteur : D'accord, cela peut expliquer vos symptômes. Lorsque vous perdez du sang, votre corps peut avoir du mal à produire suffisamment de globules rouges pour transporter l'oxygène dans votre corps. Cela peut causer de la fatigue et des vertiges.
+
+Patient : Oh, je vois. Est-ce que cela peut être traité ?
+
+Docteur : Oui, nous pouvons vous donner des suppléments de fer pour aider votre corps à produire plus de globules rouges. Nous devrons également surveiller votre taux d'hémoglobine pour nous assurer qu'il revient à la normale.
+
+Patient : D'accord, merci docteur."
+1939,D63,Pas d'équivalence,3,NNNN,3,ANEMIE AVEC MAL. CHRON. CL. AILL.,Anémie au cours de maladies chroniques classées ailleurs,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, docteur. Je suis fatigué tout le temps et je n'ai pas beaucoup d'énergie.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous avez ces symptômes ?
+
+Patient : Cela fait plusieurs mois maintenant. J'ai aussi remarqué que je perds du poids sans raison apparente.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des douleurs ou des saignements ?
+
+Patient : Non, rien de tout cela. Mais je me sens souvent étourdi et j'ai des palpitations.
+
+Docteur : Je vois. Ces symptômes peuvent être liés à une anémie, qui est une diminution du nombre de globules rouges dans le sang. Cela peut être causé par une maladie chronique que vous avez déjà, qui affecte la production de globules rouges.
+
+Patient : Oh, je vois. Est-ce que c'est grave ?
+
+Docteur : Cela dépend de la cause sous-jacente de l'anémie. Nous devons faire des tests pour déterminer la cause exacte et élaborer un plan de traitement approprié.
+
+Patient : D'accord, je comprends. Merci, docteur."
+1940,D630,2859,0,NOOO,0,ANEMIE AVEC MAL. TUMORALES,Anémie au cours de maladies tumorales (C00-D48),D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai remarqué que je perds du poids sans raison.
+
+Docteur : D'accord, avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai des douleurs dans le dos et je me sens souvent nauséeux.
+
+Docteur : Je vois. Ces symptômes peuvent être liés à plusieurs maladies, y compris des maladies tumorales. Nous devrons effectuer des tests pour déterminer la cause exacte de vos symptômes.
+
+Patient : Des tests ? Est-ce que cela signifie que je pourrais avoir un cancer ?
+
+Docteur : Nous ne pouvons pas encore en être sûrs, mais il est important de faire des tests pour exclure cette possibilité. Si c'est le cas, nous pourrons commencer un traitement dès que possible.
+
+Patient : Je comprends. Quels types de tests devrons-nous faire ?
+
+Docteur : Nous devrons effectuer des analyses de sang pour vérifier votre taux d'hémoglobine et d'autres marqueurs sanguins. Nous pourrons également effectuer des examens d'imagerie pour voir s'il y a des anomalies dans votre corps.
+
+Patient : D'accord, je suis prêt à faire tout ce qu'il faut pour savoir ce qui ne va pas.
+
+Docteur : Très bien, nous allons commencer par ces tests et nous pourrons ensuite discuter des résultats et des options de traitement. Il est important de rester positif et de prendre soin de vous en attendant."
+1941,D638,2859,0,NOOO,0,ANEMIE AVEC AUTRES MAL. CHRON. CL. AILL.,Anémie au cours d'autres maladies chroniques classées ailleurs,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps, même après avoir dormi pendant des heures. Je me sens également faible et j'ai du mal à me concentrer.
+
+Docteur : D'accord, cela peut être un symptôme de plusieurs maladies. Avez-vous remarqué d'autres changements dans votre corps ?
+
+Patient : Oui, j'ai remarqué que j'ai perdu du poids sans raison apparente. J'ai également des douleurs articulaires et des maux de tête fréquents.
+
+Docteur : Ces symptômes peuvent être liés à une maladie chronique. Nous devrons faire des tests pour déterminer la cause exacte de vos symptômes. En attendant, je vous recommande de vous reposer autant que possible et de manger des aliments sains pour aider votre corps à se rétablir.
+
+Patient : D'accord, merci docteur. Je suis inquiet de savoir ce qui ne va pas avec moi.
+
+Docteur : Je comprends. Nous ferons tout notre possible pour trouver la cause de vos symptômes et vous aider à vous sentir mieux. Nous vous contacterons dès que nous aurons les résultats des tests. En attendant, n'hésitez pas à me contacter si vous avez des questions ou des préoccupations."
+1942,D64,Pas d'équivalence,3,NNNN,3,"ANEMIES, NCA",Autres anémies,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Patient : Bonjour Docteur. Je suis très fatigué ces derniers temps, j'ai du mal à me concentrer et je sens que je manque d'énergie.
+
+Docteur : Bonjour, d'accord. Depuis combien de temps ressentez-vous ces symptômes ?
+
+Patient : Hum, je dirais peut-être depuis deux semaines.
+
+Docteur : Et avez-vous déjà ressenti cela auparavant ?
+
+Patient : Non, pas vraiment. C'est la première fois que je me sens comme ça.
+
+Docteur : D'accord, je vais vous faire passer des tests pour voir ce qui se passe. Il est possible que vous souffriez d'une anémie, une condition qui rend votre corps incapable de fournir suffisamment de globules rouges pour transporter l'oxygène dans votre corps.
+
+Patient : Oh, je vois. Mais ça se traite, n'est-ce pas ?
+
+Docteur : Oui, bien sûr. Si c'est effectivement le cas, le traitement dépendra de la cause de l'anémie. Dans certains cas, des changements alimentaires peuvent aider. Dans d'autres cas, nous pourrions vous prescrire des médicaments. Nous verrons ce que les tests révèlent et nous déterminerons votre meilleure option de traitement.
+
+Patient : D'accord, merci, Docteur. Je me sens soulagé de savoir que cela peut être traité.
+
+Docteur : Absolument, nous allons vous aider à vous sentir mieux. Maintenant, allons faire ces tests pour que nous puissions avoir des réponses."
+1943,D640,2850,0,NOOO,0,ANEMIE SIDEROBLASTIQUE HERED.,Anémie sidéroblastique héréditaire,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas très bien, docteur. J'ai remarqué que je me fatiguais beaucoup plus rapidement que d'habitude et que j'avais des douleurs dans les jambes.
+
+Docteur : D'accord, pouvez-vous me décrire ces douleurs ? Sont-elles localisées ?
+
+Patient : Oui, elles sont concentrées dans mes mollets. Elles sont assez fortes, mais pas constantes.
+
+Docteur : D'accord, je vois. Avez-vous remarqué si vous avez des problèmes de respiration ou si vous vous essoufflez facilement ?
+
+Patient : Oui, j'ai remarqué que je m'essouffle plus facilement lorsque je monte des escaliers ou que je fais des exercices qui demandent un effort physique.
+
+Docteur : Très bien. Je vais vous faire faire quelques examens pour en savoir plus, mais je pense que vous pourriez avoir une anémie. Cela expliquerait vos symptômes. En attendant, essayez de vous reposer autant que possible et ne vous forcez pas trop physiquement.
+
+Patient : D'accord, merci docteur."
+1944,D641,2850,0,NOOO,0,"ANEMIE SIDEROBLASTIQUE IIRE., DUE A UNE MAL.","Anémie sidéroblastique secondaire, due à une maladie",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment vous sentez-vous aujourd'hui ?
+
+Patient : Pas très bien, je suis constamment fatigué et j'ai du mal à me concentrer.
+
+Docteur : Avez-vous remarqué d'autres symptômes, comme des maux de tête ou des douleurs musculaires ?
+
+Patient : Non, pas vraiment. Mais je me sens souvent essoufflé, même en faisant des activités légères.
+
+Docteur : D'accord, ces symptômes sont tous des signes d'un problème sous-jacent. Nous allons faire des tests pour déterminer la cause. En attendant, il est important que vous mangiez des aliments riches en fer pour aider à augmenter votre taux de fer dans le sang.
+
+Patient : J'essaie déjà de manger des aliments riches en fer, mais ça ne semble pas faire beaucoup de différence.
+
+Docteur : Dans certains cas, le corps ne parvient pas à absorber suffisamment de fer. C'est pourquoi nous allons également examiner la possibilité de prendre des suppléments de fer pour aider à augmenter votre taux de fer.
+
+Patient : D'accord, j'essaierai cela. Mais que se passe-t-il si les tests montrent quelque chose de plus grave ?
+
+Docteur : Si les tests révèlent quelque chose de plus grave, nous prendrons les mesures nécessaires pour traiter la maladie sous-jacente. Pour le moment, il est important de rester calme et de suivre les recommandations que je vous ai données. Nous surveillerons de près votre état de santé et nous vous tiendrons informé dès que nous en saurons plus.
+
+Patient : D'accord, merci docteur."
+1945,D642,2850,0,NOOO,0,"ANEMIE SIDEROBLASTIQUE IIRE., DUE A DES MEDICAM. ET DES TOXINES","Anémie sidéroblastique secondaire, due à des médicaments et des toxines",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour monsieur, je suis le docteur Smith. Quel est votre nom?
+
+Patient : Bonjour docteur, je m'appelle Robert.
+
+Docteur : En quoi puis-je vous aider aujourd'hui, Robert?
+
+Patient : Je me sens très fatigué tout le temps. J'ai des maux de tête et des vertiges.
+
+Docteur : Depuis combien de temps ressentez-vous ces symptômes?
+
+Patient : Cela fait environ un mois maintenant. Je suis également très pâle et je ressens une faiblesse générale.
+
+Docteur : Avez-vous remarqué si vous saignez plus que d'habitude?
+
+Patient : Pas vraiment, mais je me sens essoufflé lorsque je fais des efforts physiques.
+
+Docteur : Je vais vous prescrire des tests sanguins pour vérifier votre taux d'hémoglobine et votre taux de fer. Nous pourrons ainsi déterminer si vous souffrez d'une anémie.
+
+Patient : D'accord, merci docteur. Qu'est-ce que cela signifie si j'ai une anémie?
+
+Docteur : Il y a plusieurs types d'anémie, mais cela peut être dû à une carence en fer ou à une production anormale de globules rouges. Les symptômes que vous décrivez pourraient en effet être liés à une anémie, mais il est important d'attendre les résultats des tests avant de tirer des conclusions.
+
+Patient : D'accord, je comprends. Merci docteur.
+
+Docteur : Je vous en prie, prenez rendez-vous pour les tests dès que possible pour que nous puissions trouver la cause de vos symptômes."
+1946,D643,2850,0,NOOO,0,"ANEMIES SIDEROBLASTIQUES, NCA",Autres anémies sidéroblastiques,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis constamment fatigué et faible, et j'ai des étourdissements fréquents.
+
+Docteur : D'accord. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également remarqué que mes ongles sont plus pâles que d'habitude et que ma peau a une teinte légèrement jaunâtre.
+
+Docteur : Hmm, cela pourrait indiquer une anémie. Nous allons devoir faire des analyses de sang pour confirmer le diagnostic.
+
+Patient : Qu'est-ce que cela signifie ? Est-ce grave ?
+
+Docteur : Eh bien, cela dépend de la cause sous-jacente de l'anémie. Mais je vous assure que nous allons faire tout ce qui est en notre pouvoir pour vous aider à vous sentir mieux.
+
+Patient : D'accord, merci docteur.
+
+Docteur : En attendant les résultats de vos analyses de sang, je vous recommande de vous reposer autant que possible et de manger des aliments riches en fer pour aider à augmenter vos niveaux de globules rouges.
+
+Patient : Compris, je vais essayer de faire cela. Merci encore."
+1947,D644,2858,0,NOOO,0,ANEMIE DYSERYTHROPOIETIQUE CONG.,Anémie dysérythropoïétique congénitale,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Pas très bien, je suis fatigué tout le temps et j'ai du mal à respirer.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous ressentez cela ?
+
+Patient : Depuis plusieurs mois maintenant, mais ça empire de plus en plus.
+
+Docteur : Je vois. Avez-vous remarqué d'autres symptômes comme des douleurs ou des vertiges ?
+
+Patient : Non, rien de tout ça.
+
+Docteur : Bien. Je vais vous prescrire des analyses de sang pour voir si tout va bien de ce côté-là. Il est possible que vous ayez une carence en fer ou une autre maladie qui pourrait expliquer vos symptômes.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Ne vous inquiétez pas, nous allons trouver une solution pour vous aider à vous sentir mieux. En attendant les résultats des analyses, je vous conseille de vous reposer autant que possible et de manger des aliments riches en fer comme les épinards ou les lentilles.
+
+Patient : Très bien, je vais suivre vos conseils. Merci beaucoup.
+
+Docteur : Je vous en prie, prenez soin de vous et n'hésitez pas à me contacter si vous avez des questions ou des préoccupations."
+1948,D648,2858,0,NOOO,0,"ANEMIES PREC., NCA",Autres anémies précisées,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. Je suis fatigué tout le temps et j'ai du mal à me concentrer.
+
+Docteur : D'accord, pouvez-vous m'en dire plus sur vos symptômes ?
+
+Patient : Je suis souvent essoufflé et j'ai des vertiges. J'ai aussi remarqué que mes ongles sont plus pâles que d'habitude.
+
+Docteur : Très bien, je vais devoir vous faire passer quelques examens pour déterminer la cause de vos symptômes. Il est possible que vous souffriez d'une anémie, ce qui signifie que vous avez une carence en fer dans votre sang.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Cela dépend de la cause de l'anémie. Nous devons d'abord déterminer ce qui la provoque avant de pouvoir décider du traitement approprié.
+
+Patient : D'accord, je comprends. Que dois-je faire maintenant ?
+
+Docteur : Je vais vous prescrire des examens sanguins pour vérifier votre taux de fer et d'autres éléments dans votre sang. Nous pourrons ensuite discuter des résultats et des options de traitement. En attendant, essayez de vous reposer autant que possible et de manger des aliments riches en fer, comme des épinards et de la viande rouge.
+
+Patient : Merci, docteur. Je vais suivre vos conseils."
+1949,D649,2859,0,NOOO,0,"ANEMIE, SAI","Anémie, sans précision",D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour Monsieur, comment vous sentez-vous aujourd'hui ?
+
+Patient : Bonjour docteur, je me sens très fatigué et faible ces derniers temps. J'ai du mal à me lever le matin et j'ai souvent des vertiges.
+
+Docteur : D'accord, et depuis combien de temps ressentez-vous ces symptômes ?
+
+Patient : Cela fait environ deux semaines maintenant.
+
+Docteur : Avez-vous remarqué un changement dans votre appétit ou votre poids ?
+
+Patient : Non, pas vraiment. Mon appétit est normal et je n'ai pas perdu de poids récemment.
+
+Docteur : Très bien. Il est possible que vous souffriez d'une anémie, ce qui signifie que votre corps ne produit pas suffisamment de globules rouges pour transporter l'oxygène dans votre corps. Cela peut causer de la fatigue, des vertiges et d'autres symptômes similaires à ceux que vous décrivez.
+
+Patient : Oh non, est-ce grave ?
+
+Docteur : Dans la plupart des cas, l'anémie peut être traitée avec des suppléments en fer ou des changements alimentaires. Cependant, il est important de faire des tests pour déterminer la cause exacte de votre anémie.
+
+Patient : D'accord, je comprends. Que dois-je faire maintenant ?
+
+Docteur : Nous allons faire des tests sanguins pour confirmer le diagnostic et déterminer le traitement le plus adapté. En attendant, essayez de manger des aliments riches en fer, tels que les épinards et les lentilles, et de prendre beaucoup de repos.
+
+Patient : Merci beaucoup docteur. Je vais suivre vos conseils et faire les tests nécessaires."
+1950,D65,2866,0,NOOO,0,COAGULATION INTRAVASC. DISSEMINEE,Coagulation intravasculaire disséminée [syndrome de défibrination],D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué des ecchymoses sur ma peau et je saigne facilement.
+
+Docteur : D'accord, pouvez-vous me dire depuis combien de temps vous avez ces symptômes ?
+
+Patient : Cela fait environ une semaine maintenant.
+
+Docteur : Avez-vous remarqué d'autres symptômes tels que des douleurs abdominales ou des difficultés à respirer ?
+
+Patient : Non, pas vraiment.
+
+Docteur : Très bien, je vais vous prescrire quelques tests pour vérifier votre coagulation sanguine. Il est possible que vous souffriez d'un trouble de la coagulation sanguine, mais nous devons d'abord confirmer le diagnostic.
+
+Patient : Qu'est-ce que cela signifie exactement ?
+
+Docteur : Cela peut être un trouble grave qui affecte la capacité de votre sang à coaguler normalement. Si cela est confirmé, nous devrons prendre des mesures pour prévenir les saignements excessifs et les complications potentielles.
+
+Patient : Oh, je vois. Merci de m'informer.
+
+Docteur : Bien sûr, nous allons faire tout ce que nous pouvons pour vous aider. Nous allons d'abord effectuer les tests et ensuite nous pourrons discuter des options de traitement."
+1951,D66,2860,0,NOOO,0,CARENCE HERED. EN FACT. VIII,Carence héréditaire en facteur VIII,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour monsieur, comment allez-vous ?
+
+Patient : Bonjour docteur, ça ne va pas très bien en ce moment, j'ai des saignements fréquents et je suis souvent fatigué.
+
+Docteur : Je vois, pouvez-vous me décrire vos saignements ?
+
+Patient : Oui bien sûr, j'ai des saignements au niveau des gencives, des ecchymoses facilement et des saignements dans les urines.
+
+Docteur : Et depuis quand avez-vous commencé à ressentir ces symptômes ?
+
+Patient : Ça fait déjà plusieurs mois que cela dure, mais je n'ai pas pris cela très au sérieux.
+
+Docteur : Je comprends, mais cela peut indiquer un problème de santé sous-jacent. Nous allons devoir faire des examens pour en savoir plus.
+
+Patient : D'accord docteur, je suis prêt à tout faire.
+
+Docteur : Bien, je vais vous prescrire des tests sanguins pour vérifier la coagulation de votre sang. Nous pourrons ainsi déterminer s'il y a une cause médicale à vos symptômes.
+
+Patient : Merci docteur, j'attends les résultats avec impatience.
+
+Docteur : Nous vous recontacterons dès que nous aurons les résultats. En attendant, évitez les situations potentiellement dangereuses pour éviter tout risque de saignement.
+
+Patient : Je ferai attention, merci encore docteur."
+1952,D67,2861,0,NOOO,0,CARENCE HERED. EN FACT. IX,Carence héréditaire en facteur IX,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: Je ne me sens pas très bien. J'ai remarqué que je saigne facilement et que mes ecchymoses prennent plus de temps à guérir que d'habitude.
+
+Docteur: Hmm, je vois. Avez-vous remarqué d'autres symptômes?
+
+Patient: Oui, j'ai aussi des douleurs articulaires et des saignements de nez fréquents.
+
+Docteur: D'accord, cela peut être le signe d'un trouble de la coagulation sanguine. Nous allons devoir faire des tests pour déterminer la cause de ces symptômes.
+
+Patient: Est-ce que c'est grave?
+
+Docteur: Nous ne pouvons pas encore dire, mais il est important de faire des tests pour savoir ce qui se passe. Nous allons vous donner les traitements nécessaires pour gérer vos symptômes en attendant les résultats.
+
+Patient: D'accord, merci docteur.
+
+Docteur: Bien sûr, n'hésitez pas à me contacter si vous avez d'autres questions ou si vos symptômes s'aggravent."
+1953,D68,Pas d'équivalence,3,NNNN,3,"ANOM. DE LA COAGULATION, NCA",Autres anomalies de la coagulation,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai remarqué que je saigne plus facilement que d'habitude et que mes ecchymoses prennent plus de temps à guérir.
+
+Docteur : D'accord, cela peut être le signe d'un trouble de la coagulation. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi des saignements de nez fréquents et j'ai remarqué du sang dans mes selles.
+
+Docteur : Ces symptômes sont effectivement préoccupants. Nous allons devoir faire des tests pour déterminer la cause de ces saignements. Il est possible que vous ayez une anomalie de la coagulation.
+
+Patient : Est-ce que c'est grave ?
+
+Docteur : Cela dépend de la cause de l'anomalie. Certaines anomalies de la coagulation peuvent être traitées avec des médicaments, tandis que d'autres peuvent nécessiter une intervention chirurgicale. Nous devons d'abord déterminer la cause avant de pouvoir élaborer un plan de traitement.
+
+Patient : D'accord, je comprends. Quels sont les prochains pas ?
+
+Docteur : Nous allons vous prescrire des tests sanguins pour évaluer votre capacité de coagulation. En fonction des résultats, nous pourrons déterminer la cause de vos symptômes et élaborer un plan de traitement approprié.
+
+Patient : Merci, docteur. Je suis soulagé de savoir que nous allons trouver une solution à mes problèmes de santé."
+1954,D680,2864,0,NOOO,0,MAL. DE VON WILLEBRAND,Maladie de von Willebrand,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne vais pas très bien, j'ai remarqué que je saigne plus que d'habitude.
+
+Docteur : Pouvez-vous me donner plus de détails sur ces saignements ?
+
+Patient : Oui, j'ai des saignements de nez fréquents et ils durent plus longtemps que d'habitude. J'ai également des ecchymoses qui apparaissent facilement et qui prennent plus de temps à guérir.
+
+Docteur : Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai également des saignements excessifs lors de mes règles et j'ai remarqué que mes gencives saignent facilement lorsque je me brosse les dents.
+
+Docteur : Je vois. Ces symptômes peuvent être liés à plusieurs maladies, mais je vais vous prescrire des tests pour en savoir plus. En attendant, évitez les activités qui pourraient entraîner des blessures et évitez également les médicaments qui pourraient aggraver les saignements.
+
+Patient : D'accord, merci docteur."
+1955,D681,2862,0,NOOO,0,CARENCE HERED. EN FACT. XI,Carence héréditaire en facteur XI,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne vais pas très bien, j'ai remarqué que je saigne beaucoup plus que d'habitude.
+
+Docteur : D'accord, pouvez-vous me donner plus de détails sur vos symptômes ?
+
+Patient : Oui, je saigne facilement et ça prend plus de temps pour que le saignement s'arrête. J'ai aussi remarqué des ecchymoses sur ma peau.
+
+Docteur : Avez-vous des antécédents familiaux de saignements excessifs ?
+
+Patient : Oui, mon père avait des problèmes de saignement.
+
+Docteur : D'accord, je vais devoir effectuer des tests pour déterminer la cause de vos symptômes. Il est possible que vous ayez une condition héréditaire qui affecte votre capacité à coaguler normalement.
+
+Patient : Qu'est-ce que cela signifie ?
+
+Docteur : Cela signifie que votre corps ne produit pas suffisamment de certaines protéines qui aident à arrêter les saignements. Nous devons effectuer des tests pour déterminer la cause exacte de vos symptômes.
+
+Patient : Est-ce que cela peut être traité ?
+
+Docteur : Oui, il existe des traitements pour aider à contrôler les saignements. Nous devrons travailler ensemble pour trouver le traitement qui convient le mieux à votre situation.
+
+Patient : Merci, docteur. Je suis soulagé de savoir que cela peut être traité.
+
+Docteur : Bien sûr, nous allons travailler ensemble pour vous aider à vous sentir mieux."
+1956,D682,2863,0,NOOO,0,CARENCE HERED. EN AUTRES FACT. DE COAGULATION,Carence héréditaire en autres facteurs de coagulation,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien, j'ai remarqué que je saigne facilement et que mes ecchymoses prennent plus de temps à guérir.
+
+Docteur : D'accord, cela peut être un symptôme de plusieurs maladies. Avez-vous remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi des saignements de nez fréquents et j'ai remarqué que mes gencives saignent facilement lorsque je me brosse les dents.
+
+Docteur : Très bien, cela peut être lié à une carence en facteurs de coagulation. Nous allons effectuer des tests pour déterminer la cause de vos symptômes et trouver le traitement approprié.
+
+Patient : Est-ce que cela peut être grave ?
+
+Docteur : Cela dépend de la cause sous-jacente de la carence en facteurs de coagulation. Nous allons travailler ensemble pour trouver la meilleure solution pour vous.
+
+Patient : Merci, docteur. Je suis soulagé de savoir que nous allons trouver une solution.
+
+Docteur : Bien sûr, nous allons travailler ensemble pour vous aider à vous sentir mieux."
+1956,D682,2863,0,NOOO,0,CARENCE HERED. EN AUTRES FACT. DE COAGULATION,Carence héréditaire en autres facteurs de coagulation,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur: Bonjour, comment allez-vous aujourd'hui?
+
+Patient: J'ai remarqué que je saigne facilement ces derniers temps, même lorsque je me coupe avec une petite coupure.
+
+Docteur: D'accord, pouvez-vous me dire depuis combien de temps cela se produit?
+
+Patient: Environ deux semaines.
+
+Docteur: Avez-vous remarqué d'autres symptômes tels que des ecchymoses ou des saignements de nez?
+
+Patient: Oui, j'ai des ecchymoses sur les bras et les jambes, et j'ai également eu un saignement de nez la semaine dernière.
+
+Docteur: Avez-vous des antécédents familiaux de troubles de la coagulation?
+
+Patient: Non, pas que je sache.
+
+Docteur: Très bien, nous allons effectuer des tests pour voir si vous avez une carence en facteurs de coagulation, qui peuvent causer des saignements excessifs et des ecchymoses. Nous allons également vérifier si vous avez une maladie sous-jacente qui peut causer ces symptômes.
+
+Patient: D'accord, merci docteur.
+
+Docteur: Nous vous informerons dès que les résultats seront disponibles et nous pourrons discuter ensemble des options de traitement si nécessaire.
+
+Patient: Merci docteur, j'apprécie votre aide."
+1957,D683,2865,0,NOOO,0,TBL. HEMORR. DUS A DES ANTICOAGULANTS CIRCULANTS,Troubles hémorragiques dus à des anticoagulants circulants,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous ? Quels sont les symptômes que vous avez remarqués récemment ?
+
+Patient : Bonjour, je ne me sens pas très bien. J'ai remarqué que je saigne beaucoup plus facilement que d'habitude. Par exemple, j'ai eu un petit accident en me rasant hier matin et j'ai eu du mal à arrêter le saignement.
+
+Docteur : D'accord, je comprends. Est-ce que vous avez remarqué d'autres symptômes ?
+
+Patient : Oui, j'ai aussi remarqué que j'ai des bleus sur ma peau sans me souvenir de m'être cogné ou d'avoir été blessé.
+
+Docteur : Très bien, merci de me l'avoir dit. Est-ce que vous prenez actuellement des médicaments ou des suppléments ?
+
+Patient : Oui, je prends des anticoagulants pour prévenir les caillots sanguins.
+
+Docteur : D'accord, cela pourrait expliquer les symptômes que vous avez décrits. Les anticoagulants peuvent parfois causer des troubles hémorragiques. Je vais ordonner des tests pour déterminer la cause exacte de vos symptômes et nous pourrons discuter des options de traitement une fois que nous aurons les résultats.
+
+Patient : D'accord, merci docteur. J'apprécie votre aide."
+1958,D684,2867,0,NOOO,0,CARENCE ACQUISE EN FACT. DE COAGULATION,Carence acquise en facteur de coagulation,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne vais pas très bien, j'ai remarqué que je saignais beaucoup plus que d'habitude.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand cela se passe-t-il ?
+
+Patient : Depuis quelques jours, en fait. Je me suis coupé en préparant le dîner et j'ai remarqué que le saignement était beaucoup plus important que ce à quoi je suis habitué.
+
+Docteur : D'accord, avez-vous remarqué d'autres signes ou symptômes étranges récemment ?
+
+Patient : Oui, j'ai également remarqué des ecchymoses sur ma peau qui ne semblaient pas avoir été causées par des blessures.
+
+Docteur : Très bien, cela est préoccupant. Je vais devoir vous faire passer des tests pour déterminer si vous avez une carence en facteur de coagulation.
+
+Patient : Une carence en facteur de coagulation ? Qu'est-ce que cela veut dire ?
+
+Docteur : Cela signifie que votre corps ne produit pas suffisamment de protéines nécessaires pour que votre sang coagule normalement. Cela peut causer des saignements excessifs, des ecchymoses et d'autres symptômes.
+
+Patient : Oh, je vois. Est-ce que cela peut être traité ?
+
+Docteur : Oui, il existe des traitements pour les carences en facteurs de coagulation. Nous allons devoir déterminer le type de carence que vous avez et élaborer un plan de traitement adapté à votre cas.
+
+Patient : D'accord, je suis prêt à faire ce qu'il faut pour régler ça.
+
+Docteur : Très bien, je vais vous prescrire des examens à faire pour pouvoir confirmer le diagnostic et nous pourrons discuter de la marche à suivre une fois que nous aurons les résultats de ces examens.
+
+Patient : D'accord, merci beaucoup, Docteur."
+1959,D685,Pas d'équivalence,0,NOOO,0,THROMBOPHILIE PRIMAIRE,Thrombophilie primaire,D50–D89,Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire,Hématologie,D50–D89,D50–D89,Hématologie,"
+
+Docteur : Bonjour, comment allez-vous aujourd'hui ?
+
+Patient : Je ne me sens pas très bien. J'ai des douleurs dans les jambes et je suis fatigué tout le temps.
+
+Docteur : D'accord, pouvez-vous me dire depuis quand vous ressentez ces symptômes ?
+
+Patient : Cela fait environ deux semaines maintenant.
+
+Docteur : Avez-vous remarqué si vos jambes sont enflées ou si vous avez des rougeurs ?
+
+Patient : Non, je n'ai rien remarqué de tel.
+
+Docteur : Très bien. Avez-vous des antécédents familiaux de problèmes de coagulation ou de caillots sanguins ?
+
+Patient : Pas que je sache.
+
+Docteur : Je vais vous prescrire une analyse de sang pour vérifier si vous avez une maladie qui peut causer des caillots sanguins. Nous devons nous assurer que tout va bien.
+
+Patient : D'accord, merci docteur.
+
+Docteur : Il est important de ne pas paniquer, mais nous devons traiter cela rapidement. Si vous ressentez des douleurs soudaines dans la poitrine ou des difficultés à respirer, appelez immédiatement les urgences.
+
+Patient : Compris, je ferai attention.
+
+Docteur : Très bien, prenez soin de vous et revenez me voir dès que vous avez les résultats de l'analyse."
