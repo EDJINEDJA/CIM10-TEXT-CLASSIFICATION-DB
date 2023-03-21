@@ -650,8 +650,8 @@ class Utils():
 
                     compt = 0
                     des = icd_final.loc[icd_final["CODE-10"] == icd10_, "SHORTDESCRIPTION"].iloc[0]+ "," + icd_final.loc[icd_final["CODE-10"] == icd10_, "DESCRIPTION"].iloc[0]
-                    prompt = f"La CIM-10,qui est la classification internationale des maladies publiée par l'OMS, décrit le :{des} avec le code = {icd10_} Simulez-moi svp une discussion entre un docteur et un patient qui explique les symptômesqu'il a liés à ce type de maladie comme un appel d'urgence, sans mentionné dans  le texte anonymisé le diagnostic trouvé par le docteur et la maladie."
-                    
+                    prompt = f"Stp simuler le plus sincèrement possible. La CIM-10,qui est la classification internationale des maladies publiée par l'OMS, décrit le :{des} avec le code = {icd10_} Simulez-moi svp une discussion entre un docteur et un patient qui explique les symptômesqu'il a liés à ce type de maladie comme un appel d'urgence, sans mentionné dans  le texte anonymisé le diagnostic trouvé par le docteur et la maladie."
+
                     with open(os.path.join(parser.get("outputFinalPath" , "path"),"log.json"), mode='w') as f:
                         data = {f"{keys_}" : f"{icd10_}"}
                         # Écrire l'objet JSON dans le fichier
@@ -681,4 +681,4 @@ class Utils():
                         writer1 = csv.writer(file1)
                         # Écriture d'une nouvelle ligne dans le fichier CSV
                         writer1.writerow(row)
-                    time.sleep(60)
+                    time.sleep(10)
