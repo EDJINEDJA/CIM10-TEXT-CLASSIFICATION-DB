@@ -681,4 +681,4 @@ class Utils():
                         writer1 = csv.writer(file1)
                         # Écriture d'une nouvelle ligne dans le fichier CSV
                         writer1.writerow(row)
-                    time.sleep(10)
+                    time.sleep(5)
