@@ -18,7 +18,7 @@
 </p>
 
 ## OVERVIEW
-This is an open source project that provides communities, especially those in the health domain, with a set of useful databases to build an ICD10 task classification. The International Classification of Diseases (ICD) is a system that classifies medical diagnoses and procedures, and is used globally to improve healthcare management, research, and decision-making.
+It is an open source project intended to provide the community, especially those in the health domain, a set of useful databases to build an ICD10 task classification. The International Classification of Diseases (ICD) is a system that classifies medical diagnoses and procedures, and is used globally to improve healthcare management, research, and decision-making.
 
 The purpose of this project is to provide healthcare professionals and researchers with a comprehensive and standardized set of databases that can be used to build an ICD10 task classification. The databases include information on various diseases, medical procedures, and their corresponding codes, which can be used to classify health conditions and treatments.
 
